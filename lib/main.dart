@@ -33,11 +33,13 @@ class _MainState extends State<Main> {
         title: const Text('Main'),
       ),
       body: Container(
-       color: Color.fromARGB(255, 230, 245, 245),
+       color: const Color.fromARGB(255, 230, 245, 245),
         child: SafeArea(
           child: Column(
             children: <Widget>[
               Center(
+
+                
                 child: Padding(
                   padding: const EdgeInsets.all(30),
                   child: ElevatedButton(
@@ -47,7 +49,7 @@ class _MainState extends State<Main> {
         
             
               Navigator.push(context,
-                  MaterialPageRoute(builder: (context) =>  N5()));
+                  MaterialPageRoute(builder: (context) =>  const N5()));
             
         
         
@@ -58,9 +60,10 @@ class _MainState extends State<Main> {
         
                     style: ElevatedButton.styleFrom(
         
-                      backgroundColor:  Colors.black87,
+                      backgroundColor:  const Color.fromARGB(221, 110, 205, 232),
                       padding: const EdgeInsets.fromLTRB(40, 20, 40, 20),
-        
+        foregroundColor:const Color.fromARGB(221, 255, 255, 255),
+
                       shadowColor: Colors.red,
                       elevation: 15,
                       
@@ -69,6 +72,7 @@ class _MainState extends State<Main> {
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10.0),
                       ),
+                      textStyle: const TextStyle(color: Color.fromARGB(255, 251, 251, 251),fontSize: 20,fontWeight:FontWeight.bold), // Change text color
                     ),
         
         
