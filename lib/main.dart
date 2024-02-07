@@ -8,11 +8,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Widget Tree',
-      theme: ThemeData(primarySwatch: Colors.blue),
-      home: const Main(),
+      home:  Main(),
     );
   }
 }
@@ -29,61 +28,66 @@ class _MainState extends State<Main> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+          backgroundColor: Colors.green,
+
         title: const Text('Main'),
       ),
-      body: SafeArea(
-        child: Column(
-          children: <Widget>[
-            Center(
-              child: Padding(
-                padding: const EdgeInsets.all(30),
-                child: ElevatedButton(
-                  onPressed: () {
+      body: Container(
+       color: Color.fromARGB(255, 230, 245, 245),
+        child: SafeArea(
+          child: Column(
+            children: <Widget>[
+              Center(
+                child: Padding(
+                  padding: const EdgeInsets.all(30),
+                  child: ElevatedButton(
+                    onPressed: () {
+              
+        
+        
             
-
-
-          
-            Navigator.push(context,
-                MaterialPageRoute(builder: (context) =>  N5()));
-          
-
-
-
-
-                  },
-
-
-                  style: ElevatedButton.styleFrom(
-
-                    backgroundColor:  Colors.black87,
-                    padding: const EdgeInsets.fromLTRB(40, 20, 40, 20),
-
-                    shadowColor: Colors.red,
-                    elevation: 15,
-                    
-
-                    
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(10.0),
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) =>  N5()));
+            
+        
+        
+        
+        
+                    },
+        
+        
+                    style: ElevatedButton.styleFrom(
+        
+                      backgroundColor:  Colors.black87,
+                      padding: const EdgeInsets.fromLTRB(40, 20, 40, 20),
+        
+                      shadowColor: Colors.red,
+                      elevation: 15,
+                      
+        
+                      
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(10.0),
+                      ),
                     ),
+        
+        
+        
+        
+                    child: const Text("Check NLPT N5 words"),
+        
+        
+        
+        
+        
+        
+        
+                    
                   ),
-
-
-
-
-                  child: const Text("Check NLPT N5 words"),
-
-
-
-
-
-
-
-                  
                 ),
               ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );
