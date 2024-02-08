@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_tts/flutter_tts.dart';
+import 'package:audioplayers/audioplayers.dart';
 
 class Hiranaga extends StatefulWidget {
   const Hiranaga({Key? key}) : super(key: key);
@@ -12,12 +12,12 @@ class Hiranaga extends StatefulWidget {
 
 class _HiranagaState extends State<Hiranaga> {
   late List<Map<String, String>> words;
-  late FlutterTts flutterTts;
+  late AudioPlayer audioplayer;
 
   @override
   void initState() {
     super.initState();
-    flutterTts = FlutterTts();
+    audioplayer = AudioPlayer();
     loadWords();
   }
 
@@ -34,11 +34,23 @@ class _HiranagaState extends State<Hiranaga> {
     setState(() {}); // Trigger a rebuild
   }
 
-  Future<void> speak(String text) async {
-    await flutterTts.setLanguage('ja-JP'); // Set language (Japanese)
-    await flutterTts.setSpeechRate(0.5); // Set speech rate (optional)
-    await flutterTts.setPitch(1.0); // Set pitch (optional)
-    await flutterTts.speak(text);
+  Future<void> playAudio(String audioFileName) async {
+    try {
+      int result = await audioplayer.play('audio/$audioFileName.mp3', isLocal: true);
+      if (result == 1) {
+        print('Audio played successfully: $audioFileName');
+      } else {
+        print('Error playing audio: $audioFileName');
+      }
+    } catch (e) {
+      print('Error playing audio: $audioFileName');
+    }
+  }
+
+  @override
+  void dispose() {
+    audioplayer.dispose();
+    super.dispose();
   }
 
   @override
@@ -61,7 +73,9 @@ class _HiranagaState extends State<Hiranaga> {
                     children: wordMap.entries.map((entry) {
                       return GestureDetector(
                         onTap: () {
-                          speak(entry.key + entry.value);
+                          String audioFileName = entry.value.toLowerCase();
+                          playAudio(((audioFileName).replaceAll("(", ""))
+                              .replaceAll(")", ""));
                         },
                         child: Container(
                           padding: const EdgeInsets.all(8.0),
