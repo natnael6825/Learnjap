@@ -11,13 +11,14 @@ class Hiranaga extends StatefulWidget {
 }
 
 class _HiranagaState extends State<Hiranaga> {
-  late List<Map<String, String>> words;
+  late List<Map<String, String>> words = [];
   late AudioPlayer audioplayer;
 
   @override
   void initState() {
     super.initState();
-    audioplayer = AudioPlayer();
+    
+  
     loadWords();
   }
 
@@ -35,23 +36,22 @@ class _HiranagaState extends State<Hiranaga> {
   }
 
   Future<void> playAudio(String audioFileName) async {
+    final p = AudioCache();
     try {
-      int result = await audioplayer.play('audio/$audioFileName.mp3', isLocal: true);
-      if (result == 1) {
+      
+     await  p.play('audio/$audioFileName.mp3');
+    
+     
+    
+
+      
         print('Audio played successfully: $audioFileName');
-      } else {
-        print('Error playing audio: $audioFileName');
-      }
+      
     } catch (e) {
-      print('Error playing audio: $audioFileName');
+      print('Error playing audios: $audioFileName');
     }
   }
 
-  @override
-  void dispose() {
-    audioplayer.dispose();
-    super.dispose();
-  }
 
   @override
   Widget build(BuildContext context) {

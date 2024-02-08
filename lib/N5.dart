@@ -11,7 +11,7 @@ class N5 extends StatefulWidget {
 
 class _N5State extends State<N5> {
   late List<Map<String, dynamic>> words;
-  late List<Map<String, dynamic>> filteredWords;
+  late List<Map<String, dynamic>> filteredWords=[];
   bool isSearching = false;
   TextEditingController searchController = TextEditingController();
 
