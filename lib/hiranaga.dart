@@ -39,7 +39,7 @@ class _HiranagaState extends State<Hiranaga> {
     final p = AudioCache();
     try {
       
-     await  p.play('assets/audio/$audioFileName.mp3');
+     await  p.play('audio/$audioFileName.mp3');
     
      
     
