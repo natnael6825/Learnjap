@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'N5.dart';
+import 'Hiranaga.dart';
 
 void main() => runApp(const MyApp());
 
@@ -49,6 +50,64 @@ class _MainState extends State<Main> {
         
             
               Navigator.push(context,
+                  MaterialPageRoute(builder: (context) =>  const Hiranaga()));
+            
+        
+        
+        
+        
+                    },
+        
+        
+                    style: ElevatedButton.styleFrom(
+        
+                      backgroundColor:  const Color.fromARGB(221, 110, 205, 232),
+                      padding: const EdgeInsets.fromLTRB(40, 20, 40, 20),
+        foregroundColor:const Color.fromARGB(221, 255, 255, 255),
+
+                      shadowColor: Colors.red,
+                      elevation: 15,
+                      
+        
+                      
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(10.0),
+                      ),
+                      textStyle: const TextStyle(color: Color.fromARGB(255, 251, 251, 251),fontSize: 20,fontWeight:FontWeight.bold), // Change text color
+                    ),
+        
+        
+        
+        
+                    child: const Text("Hiranaga alphabets"),
+        
+        
+        
+        
+        
+        
+        
+                    
+                  ),
+                ),
+                
+              ),
+
+
+
+
+Center(
+
+  
+                child: Padding(
+                  padding: const EdgeInsets.all(30),
+                  child: ElevatedButton(
+                    onPressed: () {
+              
+        
+        
+            
+              Navigator.push(context,
                   MaterialPageRoute(builder: (context) =>  const N5()));
             
         
@@ -89,7 +148,8 @@ class _MainState extends State<Main> {
                     
                   ),
                 ),
-              ),
+),
+
             ],
           ),
         ),
