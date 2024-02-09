@@ -2,14 +2,14 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class N5 extends StatefulWidget {
-  const N5({Key? key}) : super(key: key);
+class N4 extends StatefulWidget {
+  const N4({Key? key}) : super(key: key);
 
   @override
-  _N5State createState() => _N5State();
+  _N4State createState() => _N4State();
 }
 
-class _N5State extends State<N5> {
+class _N4State extends State<N4> {
   late List<Map<String, dynamic>> words;
   late List<Map<String, dynamic>> filteredWords=[];
   bool isSearching = false;
@@ -23,7 +23,7 @@ class _N5State extends State<N5> {
 
   Future<void> loadWords() async {
     // Load JSON data from assets
-    String jsonString = await rootBundle.loadString('resource/N5.json');
+    String jsonString = await rootBundle.loadString('resource/N4.json');
     List<dynamic> jsonData = jsonDecode(jsonString);
 
     // Convert JSON data to a list of maps
@@ -59,7 +59,7 @@ class _N5State extends State<N5> {
                   border: InputBorder.none,
                 ),
               )
-            : const Text('N5 List'),
+            : const Text('N4 List'),
         backgroundColor: Colors.green,
         actions: [
           IconButton(

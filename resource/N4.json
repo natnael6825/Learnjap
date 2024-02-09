@@ -1,0 +1,3596 @@
+[
+  {
+    "content1": "あ",
+    "content2": "a",
+    "content3": "Expression",
+    "content4": "Ah; oh"
+  },
+  {
+    "content1": "ああ",
+    "content2": "aa",
+    "content3": "Adverb",
+    "content4": "ah; yes"
+  },
+  {
+    "content1": "アフリカ",
+    "content2": "afurika",
+    "content3": "Noun, Katakana",
+    "content4": "Africa"
+  },
+  {
+    "content1": "上がる",
+    "content2": "agaruあがる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to rise"
+  },
+  {
+    "content1": "挨拶",
+    "content2": "aisatsuあいさつ",
+    "content3": "Noun, Suru verb",
+    "content4": "to greet"
+  },
+  {
+    "content1": "味",
+    "content2": "ajiあじ",
+    "content3": "Noun",
+    "content4": "flavor; taste​; uniqueness; attractiveness; experience"
+  },
+  {
+    "content1": "アジア",
+    "content2": "ajia",
+    "content3": "Noun, Katakana",
+    "content4": "Asia"
+  },
+  {
+    "content1": "赤ちゃん",
+    "content2": "akachanあかちゃん",
+    "content3": "Noun",
+    "content4": "baby; infant"
+  },
+  {
+    "content1": "赤ん坊",
+    "content2": "akanbouあかんぼう",
+    "content3": "Noun",
+    "content4": "baby; infant"
+  },
+  {
+    "content1": "アクセサリー",
+    "content2": "akusesarii",
+    "content3": "Noun, Katakana",
+    "content4": "accessory"
+  },
+  {
+    "content1": "アメリカ",
+    "content2": "amerika",
+    "content3": "Noun, Katakana",
+    "content4": "America"
+  },
+  {
+    "content1": "アナウンサー",
+    "content2": "anaunsaa",
+    "content3": "Noun, Katakana",
+    "content4": "announcer"
+  },
+  {
+    "content1": "あんな",
+    "content2": "anna",
+    "content3": "Pre-noun adjectival",
+    "content4": "such"
+  },
+  {
+    "content1": "案内",
+    "content2": "annaiあんない",
+    "content3": "Noun, Suru verb",
+    "content4": "to guide"
+  },
+  {
+    "content1": "安心",
+    "content2": "anshinあんしん",
+    "content3": "Noun, Adjective, な-adjective, Suru verb",
+    "content4": "peace of mind"
+  },
+  {
+    "content1": "安全",
+    "content2": "anzenあんぜん",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "safety; security​"
+  },
+  {
+    "content1": "アルバイト",
+    "content2": "arubaito",
+    "content3": "Noun, Suru verb, Katakana",
+    "content4": "part-time job"
+  },
+  {
+    "content1": "アルコール",
+    "content2": "arukooru",
+    "content3": "Noun, Katakana",
+    "content4": "alcohol"
+  },
+  {
+    "content1": "浅い",
+    "content2": "asaiあさい",
+    "content3": "Adjective, い-adjective",
+    "content4": "shallow"
+  },
+  {
+    "content1": "遊び",
+    "content2": "asobiあそび",
+    "content3": "Noun",
+    "content4": "playing"
+  },
+  {
+    "content1": "集まる",
+    "content2": "atsumaruあつまる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to gather; to collect; to assemble"
+  },
+  {
+    "content1": "集める",
+    "content2": "atsumeruあつめる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to collect; to assemble; to gather"
+  },
+  {
+    "content1": "謝る",
+    "content2": "ayamaruあやまる",
+    "content3": "Verb, Godan verb",
+    "content4": "to apologize"
+  },
+  {
+    "content1": "倍",
+    "content2": "baiばい",
+    "content3": "Noun",
+    "content4": "double"
+  },
+  {
+    "content1": "番組",
+    "content2": "bangumiばんぐみ",
+    "content3": "Noun",
+    "content4": "program (e.g. TV)"
+  },
+  {
+    "content1": "場所",
+    "content2": "bashoばしょ",
+    "content3": "Noun",
+    "content4": "place"
+  },
+  {
+    "content1": "ベル",
+    "content2": "beru",
+    "content3": "Noun, Katakana",
+    "content4": "bell"
+  },
+  {
+    "content1": "美術館",
+    "content2": "bijutsukanびじゅつかん",
+    "content3": "Noun",
+    "content4": "art gallery; art museum"
+  },
+  {
+    "content1": "びっくり",
+    "content2": "bikkuri",
+    "content3": "Adverb, Suru verb",
+    "content4": "to be surprised"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "ビル",
+    "content2": "biru",
+    "content3": "Noun, Katakana",
+    "content4": "building"
+  },
+  {
+    "content1": "僕",
+    "content2": "bokuぼく",
+    "content3": "Pronoun",
+    "content4": "I (used by males)"
+  },
+  {
+    "content1": "貿易",
+    "content2": "bouekiぼうえき",
+    "content3": "Noun, Suru verb",
+    "content4": "trade"
+  },
+  {
+    "content1": "部長",
+    "content2": "buchouぶちょう",
+    "content3": "Noun",
+    "content4": "manager; head (chief, director) of a section or department"
+  },
+  {
+    "content1": "ぶどう",
+    "content2": "budou",
+    "content3": "Noun",
+    "content4": "grapes"
+  },
+  {
+    "content1": "文学",
+    "content2": "bungakuぶんがく",
+    "content3": "Noun",
+    "content4": "literature"
+  },
+  {
+    "content1": "文化",
+    "content2": "bunkaぶんか",
+    "content3": "Noun",
+    "content4": "culture"
+  },
+  {
+    "content1": "文法",
+    "content2": "bunpouぶんぽう",
+    "content3": "Noun",
+    "content4": "grammar"
+  },
+  {
+    "content1": "ちゃん",
+    "content2": "chan",
+    "content3": "Suffix",
+    "content4": "suffix for familiar female person"
+  },
+  {
+    "content1": "チェック",
+    "content2": "chekku",
+    "content3": "Noun, Suru verb, Katakana",
+    "content4": "to check"
+  },
+  {
+    "content1": "血",
+    "content2": "chiち",
+    "content3": "Noun",
+    "content4": "blood"
+  },
+  {
+    "content1": "力",
+    "content2": "chikaraちから",
+    "content3": "Noun",
+    "content4": "energy; force; strength; might; power"
+  },
+  {
+    "content1": "地理",
+    "content2": "chiriちり",
+    "content3": "Noun",
+    "content4": "geography"
+  },
+  {
+    "content1": "中学校",
+    "content2": "chuugakkouちゅうがっこう",
+    "content3": "Noun",
+    "content4": "junior high school; middle school"
+  },
+  {
+    "content1": "注意",
+    "content2": "chuuiちゅうい",
+    "content3": "Noun, Suru verb",
+    "content4": "caution"
+  },
+  {
+    "content1": "注射",
+    "content2": "chuushaちゅうしゃ",
+    "content3": "Noun, Suru verb",
+    "content4": "injection"
+  },
+  {
+    "content1": "駐車場",
+    "content2": "chuushajouちゅうしゃじょう",
+    "content3": "Noun",
+    "content4": "parking lot"
+  },
+  {
+    "content1": "大分",
+    "content2": "daibuだいぶ",
+    "content3": "Adverb",
+    "content4": "considerably; greatly; a lot​"
+  },
+  {
+    "content1": "大学生",
+    "content2": "daigakuseiだいがくせい",
+    "content3": "Noun",
+    "content4": "university student; college student"
+  },
+  {
+    "content1": "大事",
+    "content2": "daijiだいじ",
+    "content3": "Adjective, な-adjective",
+    "content4": "important; serious; crucial"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "大体",
+    "content2": "daitaiだいたい",
+    "content3": "Noun",
+    "content4": "roughly"
+  },
+  {
+    "content1": "暖房",
+    "content2": "danbouだんぼう",
+    "content3": "Noun, Suru verb",
+    "content4": "heating"
+  },
+  {
+    "content1": "男性",
+    "content2": "danseiだんせい",
+    "content3": "Noun",
+    "content4": "man; male"
+  },
+  {
+    "content1": "できるだけ",
+    "content2": "dekiru dake",
+    "content3": "Adverb, Expression",
+    "content4": "as much as possible"
+  },
+  {
+    "content1": "電報",
+    "content2": "denpouでんぽう",
+    "content3": "Noun",
+    "content4": "telegram"
+  },
+  {
+    "content1": "電灯",
+    "content2": "dentouでんとう",
+    "content3": "Noun",
+    "content4": "electric light"
+  },
+  {
+    "content1": "どんどん",
+    "content2": "dondon",
+    "content3": "Adverb",
+    "content4": "rapidly; more and more"
+  },
+  {
+    "content1": "泥棒",
+    "content2": "dorobouどろぼう",
+    "content3": "Noun",
+    "content4": "thief"
+  },
+  {
+    "content1": "動物園",
+    "content2": "doubutsuenどうぶつえん",
+    "content3": "Noun",
+    "content4": "zoo; zoological gardens"
+  },
+  {
+    "content1": "道具",
+    "content2": "douguどうぐ",
+    "content3": "Noun",
+    "content4": "tool"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "枝",
+    "content2": "edaえだ",
+    "content3": "Noun",
+    "content4": "branch"
+  },
+  {
+    "content1": "遠慮",
+    "content2": "enryoえんりょ",
+    "content3": "Noun, Suru verb",
+    "content4": "reserve; refraining"
+  },
+  {
+    "content1": "選ぶ",
+    "content2": "erabuえらぶ",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to choose"
+  },
+  {
+    "content1": "エスカレーター",
+    "content2": "esukareetaa",
+    "content3": "Noun, Katakana",
+    "content4": "escalator"
+  },
+  {
+    "content1": "ファックス",
+    "content2": "fakkusu",
+    "content3": "Noun, Suru verb, Katakana",
+    "content4": "fax"
+  },
+  {
+    "content1": "不便",
+    "content2": "fubenふべん",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "inconvenience"
+  },
+  {
+    "content1": "増える",
+    "content2": "fueruふえる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to increase"
+  },
+  {
+    "content1": "深い",
+    "content2": "fukaiふかい",
+    "content3": "Adjective, い-adjective",
+    "content4": "deep"
+  },
+  {
+    "content1": "復習",
+    "content2": "fukushuuふくしゅう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "review (of learned material); revision"
+  },
+  {
+    "content1": "複雑",
+    "content2": "fukuzatsuふくざつ",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "complexity; complication"
+  },
+  {
+    "content1": "踏む",
+    "content2": "fumuふむ",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to step on"
+  },
+  {
+    "content1": "船",
+    "content2": "funeふね",
+    "content3": "Noun",
+    "content4": "ship"
+  },
+  {
+    "content1": "降り出す",
+    "content2": "furidasuふりだす",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to start to rain"
+  },
+  {
+    "content1": "布団",
+    "content2": "futonふとん",
+    "content3": "Noun",
+    "content4": "Japanese bedding, futon"
+  },
+  {
+    "content1": "太る",
+    "content2": "futoruふとる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to become fat"
+  },
+  {
+    "content1": "普通",
+    "content2": "futsuuふつう",
+    "content3": "Noun, Adverb",
+    "content4": "usually"
+  },
+  {
+    "content1": "ガラス",
+    "content2": "garasu",
+    "content3": "Noun, Katakana",
+    "content4": "a glass"
+  },
+  {
+    "content1": "ガソリン",
+    "content2": "gasorin",
+    "content3": "Noun, Katakana",
+    "content4": "gasoline; petrol"
+  },
+  {
+    "content1": "ガソリンスタンド",
+    "content2": "gasorin sutando",
+    "content3": "Noun, Katakana",
+    "content4": "petrol station"
+  },
+  {
+    "content1": "ガス",
+    "content2": "gasu",
+    "content3": "Noun, Katakana",
+    "content4": "petrol"
+  },
+  {
+    "content1": "原因",
+    "content2": "geninげんいん",
+    "content3": "Noun, Suru verb",
+    "content4": "cause"
+  },
+  {
+    "content1": "下宿",
+    "content2": "geshukuげしゅく",
+    "content3": "Noun, Suru verb",
+    "content4": "lodging"
+  },
+  {
+    "content1": "技術",
+    "content2": "gijutsuぎじゅつ",
+    "content3": "Noun",
+    "content4": "art,technology,skill"
+  },
+  {
+    "content1": "ごちそう",
+    "content2": "gochisou",
+    "content3": "Noun, Suru verb",
+    "content4": "a feast"
+  },
+  {
+    "content1": "ごみ",
+    "content2": "gomi",
+    "content3": "Noun",
+    "content4": "rubbish"
+  },
+  {
+    "content1": "ご覧になる",
+    "content2": "goran ni naruごらんになる",
+    "content3": "Verb, Godan verb, Expression",
+    "content4": "(respectful) to see"
+  },
+  {
+    "content1": "ご主人",
+    "content2": "goshujinごしゅじん",
+    "content3": "Noun",
+    "content4": "your husband; her husband"
+  },
+  {
+    "content1": "ご存じ",
+    "content2": "gozonjiごぞんじ",
+    "content3": "Noun",
+    "content4": "knowing"
+  },
+  {
+    "content1": "具合",
+    "content2": "guaiぐあい",
+    "content3": "Noun",
+    "content4": "condition; health"
+  },
+  {
+    "content1": "葉",
+    "content2": "haは",
+    "content3": "Noun",
+    "content4": "leaves; leaf"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "拝見",
+    "content2": "haikenはいけん",
+    "content3": "Noun, Suru verb",
+    "content4": "seeing; looking at​"
+  },
+  {
+    "content1": "歯医者",
+    "content2": "haishaはいしゃ",
+    "content3": "Noun",
+    "content4": "dentist"
+  },
+  {
+    "content1": "はっきり",
+    "content2": "hakkiri",
+    "content3": "Adverb",
+    "content4": "clearly"
+  },
+  {
+    "content1": "運ぶ",
+    "content2": "hakobuはこぶ",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to carry"
+  },
+  {
+    "content1": "花見",
+    "content2": "hanamiはなみ",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "cherry blossom viewing; flower viewing"
+  },
+  {
+    "content1": "ハンドバッグ",
+    "content2": "handobaggu",
+    "content3": "Noun, Katakana",
+    "content4": "handbag"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "反対",
+    "content2": "hantaiはんたい",
+    "content3": "Noun, Adjective, な-adjective, Suru verb",
+    "content4": "opposition"
+  },
+  {
+    "content1": "払う",
+    "content2": "harauはらう",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to pay"
+  },
+  {
+    "content1": "発音",
+    "content2": "hatsuonはつおん",
+    "content3": "Noun, Suru verb",
+    "content4": "pronunciation"
+  },
+  {
+    "content1": "林",
+    "content2": "hayashiはやし",
+    "content3": "Noun",
+    "content4": "woods; forest"
+  },
+  {
+    "content1": "恥ずかしい",
+    "content2": "hazukashiiはずかしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "embarrassed"
+  },
+  {
+    "content1": "変",
+    "content2": "henへん",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "strange; peculiar; weird"
+  },
+  {
+    "content1": "返事",
+    "content2": "henjiへんじ",
+    "content3": "Noun, Suru verb",
+    "content4": "reply; answer; response"
+  },
+  {
+    "content1": "火",
+    "content2": "hiひ",
+    "content3": "Noun",
+    "content4": "fire"
+  },
+  {
+    "content1": "酷い",
+    "content2": "hidoiひどい",
+    "content3": "Adjective, い-adjective",
+    "content4": "terrible; awful​"
+  },
+  {
+    "content1": "冷える",
+    "content2": "hieruひえる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to grow cold"
+  },
+  {
+    "content1": "髭",
+    "content2": "higeひげ",
+    "content3": "Noun",
+    "content4": "beard"
+  },
+  {
+    "content1": "非常に",
+    "content2": "hijou niひじょうに",
+    "content3": "Adverb",
+    "content4": "extremely"
+  },
+  {
+    "content1": "光",
+    "content2": "hikariひかり",
+    "content3": "Noun",
+    "content4": "light"
+  },
+  {
+    "content1": "光る",
+    "content2": "hikaruひかる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to shine"
+  },
+  {
+    "content1": "引き出し",
+    "content2": "hikidashiひきだし",
+    "content3": "Noun",
+    "content4": "drawer"
+  },
+  {
+    "content1": "引き出す",
+    "content2": "hikidasuひきだす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to withdraw"
+  },
+  {
+    "content1": "引っ越す",
+    "content2": "hikkosuひっこす",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to move house"
+  },
+  {
+    "content1": "飛行場",
+    "content2": "hikoujouひこうじょう",
+    "content3": "Noun",
+    "content4": "airfield; airport"
+  },
+  {
+    "content1": "開く",
+    "content2": "hirakuひらく",
+    "content3": "Verb, Godan verb, Intransitive verb, Transitive verb",
+    "content4": "to open; to undo; to unseal; to unpack"
+  },
+  {
+    "content1": "拾う",
+    "content2": "hirouひろう",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to pick up"
+  },
+  {
+    "content1": "昼間",
+    "content2": "hirumaひるま",
+    "content3": "Noun",
+    "content4": "daytime; during the day"
+  },
+  {
+    "content1": "昼休み",
+    "content2": "hiruyasumiひるやすみ",
+    "content3": "Noun",
+    "content4": "lunch break; noon recess; noon rest period"
+  },
+  {
+    "content1": "久しぶり",
+    "content2": "hisashiburiひさしぶり",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "after a long time"
+  },
+  {
+    "content1": "褒める",
+    "content2": "homeruほめる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to praise"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "翻訳",
+    "content2": "honyakuほんやく",
+    "content3": "Noun, Suru verb",
+    "content4": "translation"
+  },
+  {
+    "content1": "星",
+    "content2": "hoshiほし",
+    "content3": "Noun",
+    "content4": "star"
+  },
+  {
+    "content1": "ほとんど",
+    "content2": "hotondo",
+    "content3": "Adverbial Noun",
+    "content4": "mostly"
+  },
+  {
+    "content1": "法律",
+    "content2": "houritsuほうりつ",
+    "content3": "Noun",
+    "content4": "law"
+  },
+  {
+    "content1": "放送",
+    "content2": "housouほうそう",
+    "content3": "Noun, Suru verb",
+    "content4": "to broadcast"
+  },
+  {
+    "content1": "一度",
+    "content2": "ichidoいちど",
+    "content3": "Noun",
+    "content4": "once; one time; on one occasion"
+  },
+  {
+    "content1": "以外",
+    "content2": "igaiいがい",
+    "content3": "Noun",
+    "content4": "with the exception of; excepting"
+  },
+  {
+    "content1": "医学",
+    "content2": "igakuいがく",
+    "content3": "Noun",
+    "content4": "medical science; medicine"
+  },
+  {
+    "content1": "いじめる",
+    "content2": "ijimeru",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to tease"
+  },
+  {
+    "content1": "以上",
+    "content2": "ijouいじょう",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "... and more; ... and upwards​"
+  },
+  {
+    "content1": "以下",
+    "content2": "ikaいか",
+    "content3": "Noun",
+    "content4": "not exceeding"
+  },
+  {
+    "content1": "意見",
+    "content2": "ikenいけん",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "opinion; view; comment"
+  },
+  {
+    "content1": "生き物",
+    "content2": "ikimonoいきもの",
+    "content3": "Noun",
+    "content4": "living thing"
+  },
+  {
+    "content1": "生きる",
+    "content2": "ikiruいきる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to live"
+  },
+  {
+    "content1": "以内",
+    "content2": "inaiいない",
+    "content3": "Noun, Suffix",
+    "content4": "within"
+  },
+  {
+    "content1": "田舎",
+    "content2": "inakaいなか",
+    "content3": "Noun",
+    "content4": "countryside"
+  },
+  {
+    "content1": "祈る",
+    "content2": "inoruいのる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to pray"
+  },
+  {
+    "content1": "いっぱい",
+    "content2": "ippai",
+    "content3": "Noun, Adjective, な-adjective, Adverb",
+    "content4": "full"
+  },
+  {
+    "content1": "色んな",
+    "content2": "ironnaいろんな",
+    "content3": "Pre-noun adjectival",
+    "content4": "various"
+  },
+  {
+    "content1": "石",
+    "content2": "ishiいし",
+    "content3": "Noun",
+    "content4": "stone"
+  },
+  {
+    "content1": "急ぐ",
+    "content2": "isoguいそぐ",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to hurry; to rush; to hasten; to make something happen sooner"
+  },
+  {
+    "content1": "一生懸命",
+    "content2": "isshoukenmeiいっしょうけんめい",
+    "content3": "Noun, Adverbial Noun, Adjective, な-adjective",
+    "content4": "very hard; with utmost effort"
+  },
+  {
+    "content1": "頂く",
+    "content2": "itadakuいただく",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "(humble) to receive"
+  },
+  {
+    "content1": "致す",
+    "content2": "itasuいたす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "(humble) to do"
+  },
+  {
+    "content1": "糸",
+    "content2": "itoいと",
+    "content3": "Noun",
+    "content4": "thread"
+  },
+  {
+    "content1": "ジャム",
+    "content2": "jamu",
+    "content3": "Noun, Katakana",
+    "content4": "jam"
+  },
+  {
+    "content1": "字",
+    "content2": "jiじ",
+    "content3": "Noun",
+    "content4": "character"
+  },
+  {
+    "content1": "時代",
+    "content2": "jidaiじだい",
+    "content3": "Noun",
+    "content4": "period"
+  },
+  {
+    "content1": "事故",
+    "content2": "jikoじこ",
+    "content3": "Noun",
+    "content4": "accident"
+  },
+  {
+    "content1": "事務所",
+    "content2": "jimushoじむしょ",
+    "content3": "Noun",
+    "content4": "office"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "神社",
+    "content2": "jinjaじんじゃ",
+    "content3": "Noun",
+    "content4": "Shinto shrine"
+  },
+  {
+    "content1": "人口",
+    "content2": "jinkouじんこう",
+    "content3": "Noun",
+    "content4": "population"
+  },
+  {
+    "content1": "人生",
+    "content2": "jinseiじんせい",
+    "content3": "Noun",
+    "content4": "human life"
+  },
+  {
+    "content1": "地震",
+    "content2": "jishinじしん",
+    "content3": "Noun",
+    "content4": "earthquake"
+  },
+  {
+    "content1": "辞典",
+    "content2": "jitenじてん",
+    "content3": "Noun",
+    "content4": "dictionary"
+  },
+  {
+    "content1": "自由",
+    "content2": "jiyuuじゆう",
+    "content3": "Noun, Adjective, な-adjective, Expression",
+    "content4": "freedom"
+  },
+  {
+    "content1": "女性",
+    "content2": "joseiじょせい",
+    "content3": "Noun",
+    "content4": "woman; female"
+  },
+  {
+    "content1": "準備",
+    "content2": "junbiじゅんび",
+    "content3": "Noun, Suru verb",
+    "content4": "to prepare"
+  },
+  {
+    "content1": "十分",
+    "content2": "juubunじゅうぶん",
+    "content3": "Noun, Adjective, な-adjective, Adverb",
+    "content4": "enough; sufficient; plenty; adequate; satisfactory"
+  },
+  {
+    "content1": "柔道",
+    "content2": "juudouじゅうどう",
+    "content3": "Noun",
+    "content4": "judo"
+  },
+  {
+    "content1": "住所",
+    "content2": "juushoじゅうしょ",
+    "content3": "Noun",
+    "content4": "address"
+  },
+  {
+    "content1": "カーテン",
+    "content2": "kaaten",
+    "content3": "Noun, Katakana",
+    "content4": "curtain"
+  },
+  {
+    "content1": "壁",
+    "content2": "kabeかべ",
+    "content3": "Noun",
+    "content4": "wall"
+  },
+  {
+    "content1": "課長",
+    "content2": "kachouかちょう",
+    "content3": "Noun",
+    "content4": "section manager; section chief"
+  },
+  {
+    "content1": "帰り",
+    "content2": "kaeriかえり",
+    "content3": "Noun",
+    "content4": "return; coming back"
+  },
+  {
+    "content1": "変える",
+    "content2": "kaeruかえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to change; to transform"
+  },
+  {
+    "content1": "科学",
+    "content2": "kagakuかがく",
+    "content3": "Noun",
+    "content4": "science"
+  },
+  {
+    "content1": "鏡",
+    "content2": "kagamiかがみ",
+    "content3": "Noun",
+    "content4": "mirror"
+  },
+  {
+    "content1": "海岸",
+    "content2": "kaiganかいがん",
+    "content3": "Noun",
+    "content4": "coast"
+  },
+  {
+    "content1": "会議",
+    "content2": "kaigiかいぎ",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "meeting; conference; session; assembly"
+  },
+  {
+    "content1": "会議室",
+    "content2": "kaigishitsuかいぎしつ",
+    "content3": "Noun",
+    "content4": "conference room; conference hall; council room"
+  },
+  {
+    "content1": "会場",
+    "content2": "kaijouかいじょう",
+    "content3": "Noun",
+    "content4": "assembly hall; meeting place; venue; grounds"
+  },
+  {
+    "content1": "会話",
+    "content2": "kaiwaかいわ",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "conversation"
+  },
+  {
+    "content1": "火事",
+    "content2": "kajiかじ",
+    "content3": "Noun",
+    "content4": "fire"
+  },
+  {
+    "content1": "格好",
+    "content2": "kakkouかっこう",
+    "content3": "Noun",
+    "content4": "appearance"
+  },
+  {
+    "content1": "構う",
+    "content2": "kamauかまう",
+    "content3": "Verb, Godan verb",
+    "content4": "to mind"
+  },
+  {
+    "content1": "髪",
+    "content2": "kamiかみ",
+    "content3": "Noun",
+    "content4": "hair"
+  },
+  {
+    "content1": "噛む",
+    "content2": "kamuかむ",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to bite,to chew"
+  },
+  {
+    "content1": "家内",
+    "content2": "kanaiかない",
+    "content3": "Noun",
+    "content4": "(my) wife; inside the home; one's family"
+  },
+  {
+    "content1": "必ず",
+    "content2": "kanarazuかならず",
+    "content3": "Adverb",
+    "content4": "always; certainly"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "悲しい",
+    "content2": "kanashiiかなしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "sad"
+  },
+  {
+    "content1": "考える",
+    "content2": "kangaeruかんがえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to think"
+  },
+  {
+    "content1": "看護婦",
+    "content2": "kangofuかんごふ",
+    "content3": "Noun",
+    "content4": "female nurse"
+  },
+  {
+    "content1": "関係",
+    "content2": "kankeiかんけい",
+    "content3": "Noun, Suru verb",
+    "content4": "relationship"
+  },
+  {
+    "content1": "彼女",
+    "content2": "kanojoかのじょ",
+    "content3": "Pronoun",
+    "content4": "she; her​"
+  },
+  {
+    "content1": "簡単",
+    "content2": "kantanかんたん",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "simple; easy"
+  },
+  {
+    "content1": "彼",
+    "content2": "kareかれ",
+    "content3": "Pronoun",
+    "content4": "he; him​; his"
+  },
+  {
+    "content1": "彼ら",
+    "content2": "kareraかれら",
+    "content3": "Pronoun",
+    "content4": "they; them"
+  },
+  {
+    "content1": "形",
+    "content2": "katachiかたち",
+    "content3": "Noun",
+    "content4": "shape"
+  },
+  {
+    "content1": "片付ける",
+    "content2": "katadzukeruかたづける",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to tidy up"
+  },
+  {
+    "content1": "硬い",
+    "content2": "kataiかたい",
+    "content3": "Adjective, い-adjective",
+    "content4": "hard"
+  },
+  {
+    "content1": "勝つ",
+    "content2": "katsuかつ",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to win"
+  },
+  {
+    "content1": "乾く",
+    "content2": "kawakuかわく",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to get dry"
+  },
+  {
+    "content1": "代わり",
+    "content2": "kawariかわり",
+    "content3": "Noun",
+    "content4": "instead; in place"
+  },
+  {
+    "content1": "変わる",
+    "content2": "kawaruかわる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to change"
+  },
+  {
+    "content1": "通う",
+    "content2": "kayouかよう",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to commute"
+  },
+  {
+    "content1": "飾る",
+    "content2": "kazaruかざる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to decorate"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "毛",
+    "content2": "keけ",
+    "content3": "Noun",
+    "content4": "hair or fur"
+  },
+  {
+    "content1": "ケーキ",
+    "content2": "keeki",
+    "content3": "Noun, Katakana",
+    "content4": "cake"
+  },
+  {
+    "content1": "怪我",
+    "content2": "kegaけが",
+    "content3": "Noun, Suru verb",
+    "content4": "to injure"
+  },
+  {
+    "content1": "計画",
+    "content2": "keikakuけいかく",
+    "content3": "Noun, Suru verb",
+    "content4": "to plan"
+  },
+  {
+    "content1": "経験",
+    "content2": "keikenけいけん",
+    "content3": "Noun, Suru verb",
+    "content4": "to experience"
+  },
+  {
+    "content1": "警察",
+    "content2": "keisatsuけいさつ",
+    "content3": "Noun",
+    "content4": "police"
+  },
+  {
+    "content1": "経済",
+    "content2": "keizaiけいざい",
+    "content3": "Noun",
+    "content4": "finance, economy"
+  },
+  {
+    "content1": "見物",
+    "content2": "kenbutsuけんぶつ",
+    "content3": "Noun, Suru verb",
+    "content4": "sightseeing; visit"
+  },
+  {
+    "content1": "喧嘩",
+    "content2": "kenkaけんか",
+    "content3": "Noun, Suru verb",
+    "content4": "to quarrel"
+  },
+  {
+    "content1": "研究",
+    "content2": "kenkyuuけんきゅう",
+    "content3": "Noun, Suru verb",
+    "content4": "research"
+  },
+  {
+    "content1": "研究室",
+    "content2": "kenkyuushitsuけんきゅうしつ",
+    "content3": "Noun",
+    "content4": "laboratory"
+  },
+  {
+    "content1": "消しゴム",
+    "content2": "keshigomu",
+    "content3": "Noun",
+    "content4": "eraser"
+  },
+  {
+    "content1": "景色",
+    "content2": "keshikiけしき",
+    "content3": "Noun",
+    "content4": "scenery"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "気",
+    "content2": "kiき",
+    "content3": "Noun",
+    "content4": "spirit"
+  },
+  {
+    "content1": "厳しい",
+    "content2": "kibishiiきびしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "strict"
+  },
+  {
+    "content1": "気分",
+    "content2": "kibunきぶん",
+    "content3": "Noun",
+    "content4": "feeling; mood"
+  },
+  {
+    "content1": "機会",
+    "content2": "kikaiきかい",
+    "content3": "Noun",
+    "content4": "chance; opportunity"
+  },
+  {
+    "content1": "危険",
+    "content2": "kikenきけん",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "danger"
+  },
+  {
+    "content1": "聞こえる",
+    "content2": "kikoeruきこえる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be heard; to be audible; to be said"
+  },
+  {
+    "content1": "決まる",
+    "content2": "kimaruきまる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be decided"
+  },
+  {
+    "content1": "決める",
+    "content2": "kimeruきめる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to decide"
+  },
+  {
+    "content1": "君",
+    "content2": "kimiきみ",
+    "content3": "Pronoun",
+    "content4": "You"
+  },
+  {
+    "content1": "気持ち",
+    "content2": "kimochiきもち",
+    "content3": "Noun",
+    "content4": "feeling"
+  },
+  {
+    "content1": "着物",
+    "content2": "kimonoきもの",
+    "content3": "Noun",
+    "content4": "kimono; Japanese traditional clothing"
+  },
+  {
+    "content1": "近所",
+    "content2": "kinjoきんじょ",
+    "content3": "Noun",
+    "content4": "neighbourhood"
+  },
+  {
+    "content1": "絹",
+    "content2": "kinuきぬ",
+    "content3": "Noun",
+    "content4": "silk"
+  },
+  {
+    "content1": "季節",
+    "content2": "kisetsuきせつ",
+    "content3": "Noun",
+    "content4": "season"
+  },
+  {
+    "content1": "汽車",
+    "content2": "kishaきしゃ",
+    "content3": "Noun",
+    "content4": "train"
+  },
+  {
+    "content1": "規則",
+    "content2": "kisokuきそく",
+    "content3": "Noun",
+    "content4": "rule"
+  },
+  {
+    "content1": "子",
+    "content2": "koこ",
+    "content3": "Noun",
+    "content4": "child"
+  },
+  {
+    "content1": "心",
+    "content2": "kokoroこころ",
+    "content3": "Noun",
+    "content4": "heart"
+  },
+  {
+    "content1": "国際",
+    "content2": "kokusaiこくさい",
+    "content3": "Noun",
+    "content4": "international"
+  },
+  {
+    "content1": "細かい",
+    "content2": "komakaiこまかい",
+    "content3": "Adjective, い-adjective",
+    "content4": "small, fine"
+  },
+  {
+    "content1": "米",
+    "content2": "komeこめ",
+    "content3": "Noun",
+    "content4": "(husked grains of) rice"
+  },
+  {
+    "content1": "込む",
+    "content2": "komuこむ",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be crowded"
+  },
+  {
+    "content1": "今度",
+    "content2": "kondoこんど",
+    "content3": "Noun",
+    "content4": "this time; next time"
+  },
+  {
+    "content1": "この間",
+    "content2": "kono aidaこのあいだ",
+    "content3": "Adverbial Noun",
+    "content4": "the other day; recently"
+  },
+  {
+    "content1": "このごろ",
+    "content2": "kono goro",
+    "content3": "Adverbial Noun",
+    "content4": "these days; nowadays"
+  },
+  {
+    "content1": "コンピュータ",
+    "content2": "konpyuuta",
+    "content3": "Noun, Katakana",
+    "content4": "computer"
+  },
+  {
+    "content1": "コンサート",
+    "content2": "konsaato",
+    "content3": "Noun, Katakana",
+    "content4": "concert"
+  },
+  {
+    "content1": "今夜",
+    "content2": "konyaこんや",
+    "content3": "Noun",
+    "content4": "this evening; tonigh"
+  },
+  {
+    "content1": "これから",
+    "content2": "korekara",
+    "content3": "Conjunction",
+    "content4": "after this"
+  },
+  {
+    "content1": "故障",
+    "content2": "koshouこしょう",
+    "content3": "Noun, Suru verb",
+    "content4": "to break-down"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "答え",
+    "content2": "kotaeこたえ",
+    "content3": "Noun",
+    "content4": "response"
+  },
+  {
+    "content1": "小鳥",
+    "content2": "kotoriことり",
+    "content3": "Noun",
+    "content4": "small bird"
+  },
+  {
+    "content1": "こう",
+    "content2": "kou",
+    "content3": "Adverb",
+    "content4": "this way"
+  },
+  {
+    "content1": "校長",
+    "content2": "kouchouこうちょう",
+    "content3": "Noun",
+    "content4": "principal; headmaster"
+  },
+  {
+    "content1": "講堂",
+    "content2": "koudouこうどう",
+    "content3": "Noun",
+    "content4": "auditorium"
+  },
+  {
+    "content1": "郊外",
+    "content2": "kougaiこうがい",
+    "content3": "Noun",
+    "content4": "suburb; residential area on the outskirt of a city"
+  },
+  {
+    "content1": "講義",
+    "content2": "kougiこうぎ",
+    "content3": "Noun, Suru verb",
+    "content4": "lecture"
+  },
+  {
+    "content1": "工業",
+    "content2": "kougyouこうぎょう",
+    "content3": "Noun",
+    "content4": "industry"
+  },
+  {
+    "content1": "工場",
+    "content2": "koujouこうじょう",
+    "content3": "Noun",
+    "content4": "factory"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "高校",
+    "content2": "koukouこうこう",
+    "content3": "Noun",
+    "content4": "senior high school; high school​"
+  },
+  {
+    "content1": "高校生",
+    "content2": "koukouseiこうこうせい",
+    "content3": "Noun",
+    "content4": "high school student"
+  },
+  {
+    "content1": "公務員",
+    "content2": "koumuinこうむいん",
+    "content3": "Noun",
+    "content4": "government worker"
+  },
+  {
+    "content1": "高等学校",
+    "content2": "koutougakkouこうとうがっこう",
+    "content3": "Noun",
+    "content4": "high school"
+  },
+  {
+    "content1": "交通",
+    "content2": "koutsuuこうつう",
+    "content3": "Noun",
+    "content4": "traffic"
+  },
+  {
+    "content1": "怖い",
+    "content2": "kowaiこわい",
+    "content3": "Adjective, い-adjective",
+    "content4": "frightening"
+  },
+  {
+    "content1": "壊れる",
+    "content2": "kowareruこわれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be broken"
+  },
+  {
+    "content1": "壊す",
+    "content2": "kowasuこわす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to break"
+  },
+  {
+    "content1": "首",
+    "content2": "kubiくび",
+    "content3": "Noun",
+    "content4": "neck"
+  },
+  {
+    "content1": "下さる",
+    "content2": "kudasaruくださる",
+    "content3": "Verb, Godan verb",
+    "content4": "(respectful) to give"
+  },
+  {
+    "content1": "雲",
+    "content2": "kumoくも",
+    "content3": "Noun",
+    "content4": "cloud"
+  },
+  {
+    "content1": "君",
+    "content2": "kunくん",
+    "content3": "Suffix",
+    "content4": "suffix for familiar young male"
+  },
+  {
+    "content1": "比べる",
+    "content2": "kuraberuくらべる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to compare"
+  },
+  {
+    "content1": "暮れる",
+    "content2": "kureruくれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to get dark"
+  },
+  {
+    "content1": "草",
+    "content2": "kusaくさ",
+    "content3": "Noun",
+    "content4": "grass"
+  },
+  {
+    "content1": "空気",
+    "content2": "kuukiくうき",
+    "content3": "Noun",
+    "content4": "air"
+  },
+  {
+    "content1": "空港",
+    "content2": "kuukouくうこう",
+    "content3": "Noun",
+    "content4": "airport"
+  },
+  {
+    "content1": "客",
+    "content2": "kyakuきゃく",
+    "content3": "Noun",
+    "content4": "guest; customer"
+  },
+  {
+    "content1": "教育",
+    "content2": "kyouikuきょういく",
+    "content3": "Noun, Suru verb",
+    "content4": "education"
+  },
+  {
+    "content1": "教会",
+    "content2": "kyoukaiきょうかい",
+    "content3": "Noun",
+    "content4": "church; congregation; Christian church"
+  },
+  {
+    "content1": "興味",
+    "content2": "kyoumiきょうみ",
+    "content3": "Noun",
+    "content4": "interest (in something); curiosity (about something); zest (for)"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "競争",
+    "content2": "kyousouきょうそう",
+    "content3": "Noun, Suru verb",
+    "content4": "competition"
+  },
+  {
+    "content1": "急",
+    "content2": "kyuuきゅう",
+    "content3": "Adjective, な-adjective",
+    "content4": "sudden; abrupt; unexpected"
+  },
+  {
+    "content1": "急行",
+    "content2": "kyuukouきゅうこう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "hurrying (to somewhere); rushing; hastening"
+  },
+  {
+    "content1": "間違える",
+    "content2": "machigaeruまちがえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to make a mistake (in)"
+  },
+  {
+    "content1": "参る",
+    "content2": "mairuまいる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "(humble) to go; to come"
+  },
+  {
+    "content1": "負ける",
+    "content2": "makeruまける",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to lose"
+  },
+  {
+    "content1": "漫画",
+    "content2": "mangaまんが",
+    "content3": "Noun",
+    "content4": "comic"
+  },
+  {
+    "content1": "間に合う",
+    "content2": "maniauまにあう",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be in time (for)"
+  },
+  {
+    "content1": "真ん中",
+    "content2": "mannakaまんなか",
+    "content3": "Noun",
+    "content4": "middle; centre; center"
+  },
+  {
+    "content1": "周り",
+    "content2": "mawariまわり",
+    "content3": "Noun",
+    "content4": "around"
+  },
+  {
+    "content1": "回る",
+    "content2": "mawaruまわる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to go around"
+  },
+  {
+    "content1": "まず",
+    "content2": "mazu",
+    "content3": "Adverb",
+    "content4": "first of all"
+  },
+  {
+    "content1": "召し上がる",
+    "content2": "meshiagaruめしあがる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to eat; to drink​"
+  },
+  {
+    "content1": "珍しい",
+    "content2": "mezurashiiめずらしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "unusual; rare"
+  },
+  {
+    "content1": "見える",
+    "content2": "mieruみえる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be seen; to be in sight; to look; to seem"
+  },
+  {
+    "content1": "港",
+    "content2": "minatoみなと",
+    "content3": "Noun",
+    "content4": "harbour"
+  },
+  {
+    "content1": "味噌",
+    "content2": "misoみそ",
+    "content3": "Noun",
+    "content4": "fermented condiment made from soybeans"
+  },
+  {
+    "content1": "見つかる",
+    "content2": "mitsukaruみつかる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be found; to be discovered"
+  },
+  {
+    "content1": "見つける",
+    "content2": "mitsukeruみつける",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to discover; to find; to come across; to detect; to spot"
+  },
+  {
+    "content1": "都",
+    "content2": "miyakoみやこ",
+    "content3": "Noun",
+    "content4": "capital"
+  },
+  {
+    "content1": "湖",
+    "content2": "mizuumiみずうみ",
+    "content3": "Noun",
+    "content4": "lake"
+  },
+  {
+    "content1": "戻る",
+    "content2": "modoruもどる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to turn back"
+  },
+  {
+    "content1": "木綿",
+    "content2": "momenもめん",
+    "content3": "Noun",
+    "content4": "cotton (material)"
+  },
+  {
+    "content1": "森",
+    "content2": "moriもり",
+    "content3": "Noun",
+    "content4": "forest"
+  },
+  {
+    "content1": "もし",
+    "content2": "moshi",
+    "content3": "Adverb",
+    "content4": "if; in case; supposing"
+  },
+  {
+    "content1": "申し上げる",
+    "content2": "moushiageruもうしあげる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to say; to offer"
+  },
+  {
+    "content1": "申す",
+    "content2": "mousuもうす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to be called; to say"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "もうすぐ",
+    "content2": "mousugu",
+    "content3": "Adverb, Expression",
+    "content4": "soon"
+  },
+  {
+    "content1": "迎える",
+    "content2": "mukaeruむかえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to go out to meet"
+  },
+  {
+    "content1": "昔",
+    "content2": "mukashiむかし",
+    "content3": "Noun, Adverbial noun",
+    "content4": "olden days, former"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "向かう",
+    "content2": "mukauむかう",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to head towards"
+  },
+  {
+    "content1": "無理",
+    "content2": "muriむり",
+    "content3": "Noun, Adjective, な-adjective, Suru verb",
+    "content4": "impossible"
+  },
+  {
+    "content1": "虫",
+    "content2": "mushiむし",
+    "content3": "Noun",
+    "content4": "insect"
+  },
+  {
+    "content1": "息子",
+    "content2": "musukoむすこ",
+    "content3": "Noun",
+    "content4": "son"
+  },
+  {
+    "content1": "娘",
+    "content2": "musumeむすめ",
+    "content3": "Noun",
+    "content4": "daughter"
+  },
+  {
+    "content1": "投げる",
+    "content2": "nageruなげる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to throw or cast away"
+  },
+  {
+    "content1": "泣く",
+    "content2": "nakuなく",
+    "content3": "Verb, Godan verb",
+    "content4": "to weep"
+  },
+  {
+    "content1": "無くなる",
+    "content2": "naku naruなくなる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to disappear; to get lost"
+  },
+  {
+    "content1": "亡くなる",
+    "content2": "nakunaruなくなる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to die"
+  },
+  {
+    "content1": "生",
+    "content2": "namaなま",
+    "content3": "Noun, Prefix",
+    "content4": "raw"
+  },
+  {
+    "content1": "直る",
+    "content2": "naoruなおる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be fixed,to be repaired"
+  },
+  {
+    "content1": "治る",
+    "content2": "naoruなおる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be cured; to heal"
+  },
+  {
+    "content1": "慣れる",
+    "content2": "nareruなれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to get used to"
+  },
+  {
+    "content1": "鳴る",
+    "content2": "naruなる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to sound"
+  },
+  {
+    "content1": "なるほど",
+    "content2": "naruhodo",
+    "content3": "Adverb, Expression",
+    "content4": "now I understand"
+  },
+  {
+    "content1": "寝坊",
+    "content2": "nebouねぼう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "sleeping in late; oversleeping"
+  },
+  {
+    "content1": "値段",
+    "content2": "nedanねだん",
+    "content3": "Noun",
+    "content4": "price; cost"
+  },
+  {
+    "content1": "眠い",
+    "content2": "nemuiねむい",
+    "content3": "Adjective, い-adjective",
+    "content4": "sleepy"
+  },
+  {
+    "content1": "眠る",
+    "content2": "nemuruねむる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to sleep"
+  },
+  {
+    "content1": "熱",
+    "content2": "netsuねつ",
+    "content3": "Noun",
+    "content4": "fever"
+  },
+  {
+    "content1": "苦い",
+    "content2": "nigaiにがい",
+    "content3": "Adjective, い-adjective",
+    "content4": "bitter"
+  },
+  {
+    "content1": "逃げる",
+    "content2": "nigeruにげる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to escape"
+  },
+  {
+    "content1": "二階建て",
+    "content2": "nikaidateにかいだて",
+    "content3": "Noun",
+    "content4": "two-storied building"
+  },
+  {
+    "content1": "人形",
+    "content2": "ningyouにんぎょう",
+    "content3": "Noun",
+    "content4": "doll"
+  },
+  {
+    "content1": "匂い",
+    "content2": "nioiにおい",
+    "content3": "Noun",
+    "content4": "a smell"
+  },
+  {
+    "content1": "似る",
+    "content2": "niruにる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be similar"
+  },
+  {
+    "content1": "喉",
+    "content2": "nodoのど",
+    "content3": "Noun",
+    "content4": "throat"
+  },
+  {
+    "content1": "残る",
+    "content2": "nokoruのこる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to remain"
+  },
+  {
+    "content1": "乗り換える",
+    "content2": "norikaeruのりかえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to change between buses or trains"
+  },
+  {
+    "content1": "乗り物",
+    "content2": "norimonoのりもの",
+    "content3": "Noun",
+    "content4": "vehicle"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "濡れる",
+    "content2": "nureruぬれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to get wet"
+  },
+  {
+    "content1": "塗る",
+    "content2": "nuruぬる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to paint; to plaster"
+  },
+  {
+    "content1": "盗む",
+    "content2": "nusumuぬすむ",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to steal"
+  },
+  {
+    "content1": "入学",
+    "content2": "nyuugakuにゅうがく",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "entry to school or university; enrollment"
+  },
+  {
+    "content1": "入院",
+    "content2": "nyuuinにゅういん",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "hospitalization"
+  },
+  {
+    "content1": "落ちる",
+    "content2": "ochiruおちる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to fall or drop"
+  },
+  {
+    "content1": "踊り",
+    "content2": "odoriおどり",
+    "content3": "Noun",
+    "content4": "a dance"
+  },
+  {
+    "content1": "驚く",
+    "content2": "odorokuおどろく",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be surprised"
+  },
+  {
+    "content1": "踊る",
+    "content2": "odoruおどる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to dance"
+  },
+  {
+    "content1": "お出でになる",
+    "content2": "oide ni naruおいでになる",
+    "content3": "Verb, Godan verb, Expression",
+    "content4": "(respectful) to be"
+  },
+  {
+    "content1": "お祝い",
+    "content2": "oiwaiおいわい",
+    "content3": "Noun, Suru verb",
+    "content4": "congratulation"
+  },
+  {
+    "content1": "お嬢さん",
+    "content2": "ojousanおじょうさん",
+    "content3": "Noun",
+    "content4": "(another's) daughter"
+  },
+  {
+    "content1": "可笑しい",
+    "content2": "okashiiおかしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "strange or funny"
+  },
+  {
+    "content1": "行う",
+    "content2": "okonauおこなう",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to perform; to do; to carry out"
+  },
+  {
+    "content1": "怒る",
+    "content2": "okoruおこる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be angry"
+  },
+  {
+    "content1": "起こす",
+    "content2": "okosuおこす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to wake"
+  },
+  {
+    "content1": "億",
+    "content2": "okuおく",
+    "content3": "Numeric",
+    "content4": "one hundred million"
+  },
+  {
+    "content1": "屋上",
+    "content2": "okujouおくじょう",
+    "content3": "Noun",
+    "content4": "rooftop​"
+  },
+  {
+    "content1": "遅れる",
+    "content2": "okureruおくれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be late"
+  },
+  {
+    "content1": "贈り物",
+    "content2": "okurimonoおくりもの",
+    "content3": "Noun",
+    "content4": "present; gift"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "送る",
+    "content2": "okuruおくる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to send"
+  },
+  {
+    "content1": "お祭り",
+    "content2": "omatsuriおまつり",
+    "content3": "Noun",
+    "content4": "festival"
+  },
+  {
+    "content1": "お見舞い",
+    "content2": "omimaiおみまい",
+    "content3": "Noun",
+    "content4": "visiting ill or distressed people"
+  },
+  {
+    "content1": "お土産",
+    "content2": "omiyageおみやげ",
+    "content3": "Noun",
+    "content4": "souvenir"
+  },
+  {
+    "content1": "おもちゃ",
+    "content2": "omocha",
+    "content3": "Noun",
+    "content4": "toy"
+  },
+  {
+    "content1": "思い出す",
+    "content2": "omoidasuおもいだす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to remember"
+  },
+  {
+    "content1": "表",
+    "content2": "omoteおもて",
+    "content3": "Noun",
+    "content4": "the front"
+  },
+  {
+    "content1": "オートバイ",
+    "content2": "ootobai",
+    "content3": "Noun, Katakana",
+    "content4": "motorcycle"
+  },
+  {
+    "content1": "お礼",
+    "content2": "oreiおれい",
+    "content3": "Noun",
+    "content4": "thanks"
+  },
+  {
+    "content1": "折れる",
+    "content2": "oreruおれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to break; to be broken"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "下りる",
+    "content2": "oriruおりる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to get off"
+  },
+  {
+    "content1": "折る",
+    "content2": "oruおる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to break or to fold"
+  },
+  {
+    "content1": "押し入れ",
+    "content2": "oshiireおしいれ",
+    "content3": "Noun",
+    "content4": "closet"
+  },
+  {
+    "content1": "仰る",
+    "content2": "ossharuおっしゃる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "(respectful) to say"
+  },
+  {
+    "content1": "お宅",
+    "content2": "otakuおたく",
+    "content3": "Noun",
+    "content4": "your home"
+  },
+  {
+    "content1": "音",
+    "content2": "otoおと",
+    "content3": "Noun",
+    "content4": "sound; note"
+  },
+  {
+    "content1": "落とす",
+    "content2": "otosuおとす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to drop"
+  },
+  {
+    "content1": "お釣り",
+    "content2": "otsuriおつり",
+    "content3": "Noun",
+    "content4": "change (for a purchase)​"
+  },
+  {
+    "content1": "夫",
+    "content2": "ottoおっと",
+    "content3": "Noun",
+    "content4": "husband"
+  },
+  {
+    "content1": "終わり",
+    "content2": "owariおわり",
+    "content3": "Noun",
+    "content4": "the end"
+  },
+  {
+    "content1": "親",
+    "content2": "oyaおや",
+    "content3": "Noun",
+    "content4": "parents"
+  },
+  {
+    "content1": "泳ぎ方",
+    "content2": "oyogikataおよぎかた",
+    "content3": "Noun",
+    "content4": "way of swimming"
+  },
+  {
+    "content1": "パート",
+    "content2": "paato",
+    "content3": "Noun, Katakana",
+    "content4": "part; part time"
+  },
+  {
+    "content1": "パソコン",
+    "content2": "pasokon",
+    "content3": "Noun, Katakana",
+    "content4": "personal computer"
+  },
+  {
+    "content1": "ピアノ",
+    "content2": "piano",
+    "content3": "Noun, Katakana",
+    "content4": "piano"
+  },
+  {
+    "content1": "プレゼント",
+    "content2": "purezento",
+    "content3": "Noun, Katakana",
+    "content4": "present; gift"
+  },
+  {
+    "content1": "冷房",
+    "content2": "reibouれいぼう",
+    "content3": "Noun, Suru verb",
+    "content4": "air conditioning"
+  },
+  {
+    "content1": "レジ",
+    "content2": "reji",
+    "content3": "Noun, Katakana",
+    "content4": "cashier​"
+  },
+  {
+    "content1": "歴史",
+    "content2": "rekishiれきし",
+    "content3": "Noun",
+    "content4": "history"
+  },
+  {
+    "content1": "連絡",
+    "content2": "renrakuれんらく",
+    "content3": "Suru verb",
+    "content4": "to contact; to get in touch​"
+  },
+  {
+    "content1": "レポート",
+    "content2": "repooto",
+    "content3": "Noun, Katakana",
+    "content4": "report"
+  },
+  {
+    "content1": "利用",
+    "content2": "riyouりよう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "use; utilization; application"
+  },
+  {
+    "content1": "理由",
+    "content2": "riyuuりゆう",
+    "content3": "Noun",
+    "content4": "reason"
+  },
+  {
+    "content1": "留守",
+    "content2": "rusuるす",
+    "content3": "Noun, Suru verb",
+    "content4": "absence"
+  },
+  {
+    "content1": "旅館",
+    "content2": "ryokanりょかん",
+    "content3": "Noun",
+    "content4": "traditional inn; Japanese-style lodging"
+  },
+  {
+    "content1": "両方",
+    "content2": "ryouhouりょうほう",
+    "content3": "Noun",
+    "content4": "both sides"
+  },
+  {
+    "content1": "寂しい",
+    "content2": "sabishiiさびしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "lonely"
+  },
+  {
+    "content1": "下がる",
+    "content2": "sagaruさがる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to get down"
+  },
+  {
+    "content1": "探す",
+    "content2": "sagasuさがす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to look for"
+  },
+  {
+    "content1": "下げる",
+    "content2": "sageruさげる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to lower"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "最後",
+    "content2": "saigoさいご",
+    "content3": "Noun",
+    "content4": "end; last"
+  },
+  {
+    "content1": "最近",
+    "content2": "saikinさいきん",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "recently"
+  },
+  {
+    "content1": "最初",
+    "content2": "saishoさいしょ",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "beginning; first"
+  },
+  {
+    "content1": "坂",
+    "content2": "sakaさか",
+    "content3": "Noun",
+    "content4": "slope; hill"
+  },
+  {
+    "content1": "盛ん",
+    "content2": "sakanさかん",
+    "content3": "Adjective, な-adjective",
+    "content4": "popularity; prosperous"
+  },
+  {
+    "content1": "昨夜",
+    "content2": "sakuyaさくや",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "last night"
+  },
+  {
+    "content1": "サンダル",
+    "content2": "sandaru",
+    "content3": "Noun, Katakana",
+    "content4": "sandal"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "サンドイッチ",
+    "content2": "sandoicchi",
+    "content3": "Noun, Katakana",
+    "content4": "sandwich"
+  },
+  {
+    "content1": "産業",
+    "content2": "sangyouさんぎょう",
+    "content3": "Noun",
+    "content4": "industry"
+  },
+  {
+    "content1": "サラダ",
+    "content2": "sarada",
+    "content3": "Noun, Katakana",
+    "content4": "salad"
+  },
+  {
+    "content1": "再来月",
+    "content2": "saraigetsuさらいげつ",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "month after next"
+  },
+  {
+    "content1": "再来週",
+    "content2": "saraishuuさらいしゅう",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "week after next"
+  },
+  {
+    "content1": "差し上げる",
+    "content2": "sashiageruさしあげる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to give"
+  },
+  {
+    "content1": "騒ぐ",
+    "content2": "sawaguさわぐ",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to make noise,to be excited"
+  },
+  {
+    "content1": "触る",
+    "content2": "sawaruさわる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to touch"
+  },
+  {
+    "content1": "生物",
+    "content2": "seibutsuせいぶつ",
+    "content3": "Noun",
+    "content4": "living thing"
+  },
+  {
+    "content1": "政治",
+    "content2": "seijiせいじ",
+    "content3": "Noun",
+    "content4": "politics"
+  },
+  {
+    "content1": "生活",
+    "content2": "seikatsuせいかつ",
+    "content3": "Noun, Suru verb",
+    "content4": "to live"
+  },
+  {
+    "content1": "生命",
+    "content2": "seimeiせいめい",
+    "content3": "Noun",
+    "content4": "life"
+  },
+  {
+    "content1": "生産",
+    "content2": "seisanせいさん",
+    "content3": "Noun, Suru verb",
+    "content4": "production"
+  },
+  {
+    "content1": "西洋",
+    "content2": "seiyouせいよう",
+    "content3": "Noun",
+    "content4": "the west; Western countries"
+  },
+  {
+    "content1": "世界",
+    "content2": "sekaiせかい",
+    "content3": "Noun",
+    "content4": "the world"
+  },
+  {
+    "content1": "席",
+    "content2": "sekiせき",
+    "content3": "Noun",
+    "content4": "seat"
+  },
+  {
+    "content1": "線",
+    "content2": "senせん",
+    "content3": "Noun",
+    "content4": "line"
+  },
+  {
+    "content1": "背中",
+    "content2": "senakaせなか",
+    "content3": "Noun",
+    "content4": "back (of body)"
+  },
+  {
+    "content1": "先輩",
+    "content2": "senpaiせんぱい",
+    "content3": "Noun",
+    "content4": "senior"
+  },
+  {
+    "content1": "戦争",
+    "content2": "sensouせんそう",
+    "content3": "Noun, Suru verb",
+    "content4": "war"
+  },
+  {
+    "content1": "説明",
+    "content2": "setsumeiせつめい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "explanation"
+  },
+  {
+    "content1": "社長",
+    "content2": "shachouしゃちょう",
+    "content3": "Noun",
+    "content4": "company president; manager; director"
+  },
+  {
+    "content1": "社会",
+    "content2": "shakaiしゃかい",
+    "content3": "Noun",
+    "content4": "society; public; community; the world"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "市",
+    "content2": "shiし",
+    "content3": "Noun",
+    "content4": "city"
+  },
+  {
+    "content1": "試合",
+    "content2": "shiaiしあい",
+    "content3": "Noun, Suru verb",
+    "content4": "match,game"
+  },
+  {
+    "content1": "叱る",
+    "content2": "shikaruしかる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to scold"
+  },
+  {
+    "content1": "仕方",
+    "content2": "shikataしかた",
+    "content3": "Noun",
+    "content4": "way; method"
+  },
+  {
+    "content1": "試験",
+    "content2": "shikenしけん",
+    "content3": "Noun, Suru verb",
+    "content4": "examination"
+  },
+  {
+    "content1": "しっかり",
+    "content2": "shikkari",
+    "content3": "Adverb, Suru verb",
+    "content4": "firmly; steadily"
+  },
+  {
+    "content1": "島",
+    "content2": "shimaしま",
+    "content3": "Noun",
+    "content4": "island"
+  },
+  {
+    "content1": "市民",
+    "content2": "shimin市民",
+    "content3": "Noun",
+    "content4": "citizen"
+  },
+  {
+    "content1": "品物",
+    "content2": "shinamonoしなもの",
+    "content3": "Noun",
+    "content4": "goods; article; thing"
+  },
+  {
+    "content1": "新聞社",
+    "content2": "shinbunshaしんぶんしゃ",
+    "content3": "Noun",
+    "content4": "newspaper company"
+  },
+  {
+    "content1": "親切",
+    "content2": "shinsetsuしんせつ",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "kindness"
+  },
+  {
+    "content1": "失敗",
+    "content2": "shippaiしっぱい",
+    "content3": "Noun, Suru verb",
+    "content4": "failure"
+  },
+  {
+    "content1": "調べる",
+    "content2": "shiraberuしらべる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to investigate"
+  },
+  {
+    "content1": "知らせる",
+    "content2": "shiraseruしらせる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to notify"
+  },
+  {
+    "content1": "下着",
+    "content2": "shitagiしたぎ",
+    "content3": "Noun",
+    "content4": "underwear"
+  },
+  {
+    "content1": "食料品",
+    "content2": "shokuryouhinしょくりょうひん",
+    "content3": "Noun",
+    "content4": "food; groceries"
+  },
+  {
+    "content1": "小学校",
+    "content2": "shougakkouしょうがっこう",
+    "content3": "Noun",
+    "content4": "elementary school"
+  },
+  {
+    "content1": "生じる",
+    "content2": "shoujiruしょうじる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to produce"
+  },
+  {
+    "content1": "紹介",
+    "content2": "shoukaiしょうかい",
+    "content3": "Noun, Suru verb",
+    "content4": "introduction"
+  },
+  {
+    "content1": "将来",
+    "content2": "shouraiしょうらい",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "future"
+  },
+  {
+    "content1": "小説",
+    "content2": "shousetsuしょうせつ",
+    "content3": "Noun",
+    "content4": "novel"
+  },
+  {
+    "content1": "趣味",
+    "content2": "shumiしゅみ",
+    "content3": "Noun",
+    "content4": "hobby; pastime; preference"
+  },
+  {
+    "content1": "習慣",
+    "content2": "shuukanしゅうかん",
+    "content3": "Noun",
+    "content4": "habit; custom; cultural practice."
+  },
+  {
+    "content1": "祖母",
+    "content2": "soboそぼ",
+    "content3": "Noun",
+    "content4": "grandmother"
+  },
+  {
+    "content1": "育てる",
+    "content2": "sodateruそだてる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to rear,to bring up"
+  },
+  {
+    "content1": "祖父",
+    "content2": "sofuそふ",
+    "content3": "Noun",
+    "content4": "grandfather"
+  },
+  {
+    "content1": "ソフト",
+    "content2": "sofuto",
+    "content3": "Noun, Katakana",
+    "content4": "soft"
+  },
+  {
+    "content1": "そんな",
+    "content2": "sonna",
+    "content3": "Pre-noun adjectival",
+    "content4": "that sort of"
+  },
+  {
+    "content1": "それで",
+    "content2": "sore de",
+    "content3": "Conjunction",
+    "content4": "because of that"
+  },
+  {
+    "content1": "それほど",
+    "content2": "sore hodo",
+    "content3": "Adverb",
+    "content4": "to that extent"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "そろそろ",
+    "content2": "sorosoro",
+    "content3": "Adverb",
+    "content4": "gradually; soon"
+  },
+  {
+    "content1": "卒業",
+    "content2": "sotsugyouそつぎょう",
+    "content3": "Noun, Suru verb",
+    "content4": "graduation"
+  },
+  {
+    "content1": "相談",
+    "content2": "soudanそうだん",
+    "content3": "Noun, Suru verb",
+    "content4": "to discuss"
+  },
+  {
+    "content1": "素晴らしい",
+    "content2": "subarashiiすばらしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "wonderful"
+  },
+  {
+    "content1": "滑る",
+    "content2": "suberuすべる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to slide; to slip"
+  },
+  {
+    "content1": "凄い",
+    "content2": "sugoiすごい",
+    "content3": "Adjective, い-adjective",
+    "content4": "terrific"
+  },
+  {
+    "content1": "水道",
+    "content2": "suidouすいどう",
+    "content3": "Noun",
+    "content4": "water supply"
+  },
+  {
+    "content1": "水泳",
+    "content2": "suieiすいえい",
+    "content3": "Noun, Suru verb",
+    "content4": "swimming"
+  },
+  {
+    "content1": "すっかり",
+    "content2": "sukkari",
+    "content3": "Adverb",
+    "content4": "completely"
+  },
+  {
+    "content1": "空く",
+    "content2": "sukuすく",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be hungry"
+  },
+  {
+    "content1": "スクリーン",
+    "content2": "sukuriin",
+    "content3": "Noun, Katakana",
+    "content4": "screen"
+  },
+  {
+    "content1": "隅",
+    "content2": "sumiすみ",
+    "content3": "Noun",
+    "content4": "corner; nook"
+  },
+  {
+    "content1": "済む",
+    "content2": "sumuすむ",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to finish"
+  },
+  {
+    "content1": "砂",
+    "content2": "sunaすな",
+    "content3": "Noun",
+    "content4": "sand"
+  },
+  {
+    "content1": "すり",
+    "content2": "suri",
+    "content3": "Noun",
+    "content4": "pickpocket"
+  },
+  {
+    "content1": "スーツケース",
+    "content2": "sustsukeesu",
+    "content3": "Noun, Katakana",
+    "content4": "suitcase"
+  },
+  {
+    "content1": "進む",
+    "content2": "susumuすすむ",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to make progress"
+  },
+  {
+    "content1": "ステーキ",
+    "content2": "suteeki",
+    "content3": "Noun, Katakana",
+    "content4": "steak"
+  },
+  {
+    "content1": "ステレオ",
+    "content2": "sutereo",
+    "content3": "Noun, Katakana",
+    "content4": "stereo"
+  },
+  {
+    "content1": "捨てる",
+    "content2": "suteruすてる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to throw away"
+  },
+  {
+    "content1": "数学",
+    "content2": "suugakuすうがく",
+    "content3": "Noun",
+    "content4": "mathematics; arithmetic"
+  },
+  {
+    "content1": "スーツ",
+    "content2": "suutsu",
+    "content3": "Noun, Katakana",
+    "content4": "suit"
+  },
+  {
+    "content1": "正しい",
+    "content2": "tadashiiただしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "right; correct"
+  },
+  {
+    "content1": "退院",
+    "content2": "tai'inたいいん",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "leaving hospital; discharge from hospital"
+  },
+  {
+    "content1": "台風",
+    "content2": "taifuuたいふう",
+    "content3": "Noun",
+    "content4": "typhoon"
+  },
+  {
+    "content1": "タイプ",
+    "content2": "taipu",
+    "content3": "Noun",
+    "content4": "type,style"
+  },
+  {
+    "content1": "たいてい",
+    "content2": "taitei",
+    "content3": "Noun, Adjective, な-adjective, Adverb",
+    "content4": "usually"
+  },
+  {
+    "content1": "たまに",
+    "content2": "tamani",
+    "content3": "Adverb",
+    "content4": "occasionally"
+  },
+  {
+    "content1": "棚",
+    "content2": "tanaたな",
+    "content3": "Noun",
+    "content4": "shelves"
+  },
+  {
+    "content1": "誕生",
+    "content2": "tanjouたんじょう",
+    "content3": "Noun, Suru verb",
+    "content4": "birth"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "楽しみ",
+    "content2": "tanoshimiたのしみ",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "looking forward to​"
+  },
+  {
+    "content1": "倒れる",
+    "content2": "taoreruたおれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to fall (over, down)"
+  },
+  {
+    "content1": "足りる",
+    "content2": "tariruたりる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be sufficient; to be enough"
+  },
+  {
+    "content1": "足す",
+    "content2": "tasuたす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to add (numbers / something)"
+  },
+  {
+    "content1": "畳",
+    "content2": "tatamiたたみ",
+    "content3": "Noun",
+    "content4": "Japanese straw mat"
+  },
+  {
+    "content1": "建てる",
+    "content2": "tateruたてる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to build"
+  },
+  {
+    "content1": "訪ねる",
+    "content2": "tazuneruたずねる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to visit"
+  },
+  {
+    "content1": "尋ねる",
+    "content2": "tazuneruたずねる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to ask"
+  },
+  {
+    "content1": "手袋",
+    "content2": "tebukuroてぶくろ",
+    "content3": "Noun",
+    "content4": "glove"
+  },
+  {
+    "content1": "丁寧",
+    "content2": "teineiていねい",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "polite"
+  },
+  {
+    "content1": "テキスト",
+    "content2": "tekisuto",
+    "content3": "Noun, Katakana",
+    "content4": "text; textbook"
+  },
+  {
+    "content1": "適当",
+    "content2": "tekitouてきとう",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "suitable"
+  },
+  {
+    "content1": "点",
+    "content2": "tenてん",
+    "content3": "Noun",
+    "content4": "point; dot"
+  },
+  {
+    "content1": "店員",
+    "content2": "ten'inてんいん",
+    "content3": "Noun",
+    "content4": "employee (of a store); shop assistant; clerk"
+  },
+  {
+    "content1": "テニス",
+    "content2": "tenisu",
+    "content3": "Noun, Katakana",
+    "content4": "tennis"
+  },
+  {
+    "content1": "天気予報",
+    "content2": "tenkiyohouてんきよほう",
+    "content3": "Noun",
+    "content4": "weather forecast"
+  },
+  {
+    "content1": "展覧会",
+    "content2": "tenrankaiてんらんかい",
+    "content3": "Noun",
+    "content4": "exhibition"
+  },
+  {
+    "content1": "寺",
+    "content2": "teraてら",
+    "content3": "Noun",
+    "content4": "temple"
+  },
+  {
+    "content1": "手伝う",
+    "content2": "tetsudauてつだう",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to help; to assist; to aid​"
+  },
+  {
+    "content1": "途中",
+    "content2": "tochuuとちゅう",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "on the way"
+  },
+  {
+    "content1": "届ける",
+    "content2": "todokeruとどける",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to send​"
+  },
+  {
+    "content1": "特急",
+    "content2": "tokkyuuとっきゅう",
+    "content3": "Noun",
+    "content4": "limited express (train, faster than an express)"
+  },
+  {
+    "content1": "床屋",
+    "content2": "tokoyaとこや",
+    "content3": "Noun",
+    "content4": "barber"
+  },
+  {
+    "content1": "特別",
+    "content2": "tokubetsuとくべつ",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "special; particular; extraordinary; exceptional"
+  },
+  {
+    "content1": "特に",
+    "content2": "tokuniとくに",
+    "content3": "Adverb",
+    "content4": "particularly; especially; in particular; expressly"
+  },
+  {
+    "content1": "泊まる",
+    "content2": "tomaruとまる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to stay at"
+  },
+  {
+    "content1": "止める",
+    "content2": "tomeruとめる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to stop something"
+  },
+  {
+    "content1": "遠く",
+    "content2": "tookuとおく",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "distant"
+  },
+  {
+    "content1": "通る",
+    "content2": "tooruとおる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to go through"
+  },
+  {
+    "content1": "取り替える",
+    "content2": "torikaeruとりかえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to exchange; to swap; to replace"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "到頭",
+    "content2": "toutouとうとう",
+    "content3": "Adverb",
+    "content4": "finally, after all"
+  },
+  {
+    "content1": "続ける",
+    "content2": "tsudzukeruつづける",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to continue; to keep up; to keep on"
+  },
+  {
+    "content1": "続く",
+    "content2": "tsudzukuつづく",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to continue"
+  },
+  {
+    "content1": "都合",
+    "content2": "tsugouつごう",
+    "content3": "Noun, Adverb",
+    "content4": "convenience"
+  },
+  {
+    "content1": "捕まえる",
+    "content2": "tsukamaeruつかまえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to catch"
+  },
+  {
+    "content1": "漬ける",
+    "content2": "tsukeruつける",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to soak; to pickle"
+  },
+  {
+    "content1": "月",
+    "content2": "tsukiつき",
+    "content3": "Noun",
+    "content4": "moon"
+  },
+  {
+    "content1": "付く",
+    "content2": "tsukuつく",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be attached"
+  },
+  {
+    "content1": "妻",
+    "content2": "tsumaつま",
+    "content3": "Noun",
+    "content4": "(humble) wife"
+  },
+  {
+    "content1": "連れる",
+    "content2": "tsureruつれる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to take (someone) with one"
+  },
+  {
+    "content1": "釣る",
+    "content2": "tsuruつる",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to fish"
+  },
+  {
+    "content1": "伝える",
+    "content2": "tsutaeruつたえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to report; to tell"
+  },
+  {
+    "content1": "包む",
+    "content2": "tsutsumuつつむ",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to wrap"
+  },
+  {
+    "content1": "腕",
+    "content2": "udeうで",
+    "content3": "Noun",
+    "content4": "arm"
+  },
+  {
+    "content1": "植える",
+    "content2": "ueruうえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to plant; to grow"
+  },
+  {
+    "content1": "動く",
+    "content2": "ugokuうごく",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to move"
+  },
+  {
+    "content1": "伺う",
+    "content2": "ukagauうかがう",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to visit"
+  },
+  {
+    "content1": "受ける",
+    "content2": "ukeruうける",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to take a lesson or test"
+  },
+  {
+    "content1": "受付",
+    "content2": "uketsukeうけつけ",
+    "content3": "Noun",
+    "content4": "reception (desk); information desk​"
+  },
+  {
+    "content1": "生まれ",
+    "content2": "umareうまれ",
+    "content3": "Noun",
+    "content4": "birth"
+  },
+  {
+    "content1": "運転手",
+    "content2": "untenshuうんてんしゅ",
+    "content3": "Noun",
+    "content4": "driver; chauffeur"
+  },
+  {
+    "content1": "裏",
+    "content2": "uraうら",
+    "content3": "Noun",
+    "content4": "reverse side"
+  },
+  {
+    "content1": "嬉しい",
+    "content2": "ureshiiうれしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "happy"
+  },
+  {
+    "content1": "売り場",
+    "content2": "uribaうりば",
+    "content3": "Noun",
+    "content4": "selling area"
+  },
+  {
+    "content1": "嘘",
+    "content2": "usoうそ",
+    "content3": "Noun",
+    "content4": "a lie"
+  },
+  {
+    "content1": "打つ",
+    "content2": "utsuうつ",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to hit"
+  },
+  {
+    "content1": "美しい",
+    "content2": "utsukushiiうつくしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "beautiful"
+  },
+  {
+    "content1": "移る",
+    "content2": "utsuruうつる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to move house or transfer"
+  },
+  {
+    "content1": "写す",
+    "content2": "utsusuうつす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to copy or photograph"
+  },
+  {
+    "content1": "ワープロ",
+    "content2": "waapuro",
+    "content3": "Noun, Katakana",
+    "content4": "word processor"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "別れる",
+    "content2": "wakareruわかれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to separate"
+  },
+  {
+    "content1": "沸かす",
+    "content2": "wakasuわかす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to boil; to heat"
+  },
+  {
+    "content1": "沸く",
+    "content2": "wakuわく",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to boil"
+  },
+  {
+    "content1": "笑う",
+    "content2": "warauわらう",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to laugh; to smile"
+  },
+  {
+    "content1": "割れる",
+    "content2": "wareruわれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to break"
+  },
+  {
+    "content1": "割合",
+    "content2": "wariaiわりあい",
+    "content3": "Noun",
+    "content4": "rate; ratio"
+  },
+  {
+    "content1": "忘れ物",
+    "content2": "wasuremonoわすれもの",
+    "content3": "Noun",
+    "content4": "lost article"
+  },
+  {
+    "content1": "焼ける",
+    "content2": "yakeruやける",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to burn; to be roasted"
+  },
+  {
+    "content1": "焼く",
+    "content2": "yakuやく",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to bake; to grill"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "役に立つ",
+    "content2": "yakunitatsuやくにたつ",
+    "content3": "Verb, Godan verb, Expression",
+    "content4": "to be helpful"
+  },
+  {
+    "content1": "約束",
+    "content2": "yakusokuやくそく",
+    "content3": "Noun, Suru verb",
+    "content4": "promise"
+  },
+  {
+    "content1": "止む",
+    "content2": "yamuやむ",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to stop"
+  },
+  {
+    "content1": "やっぱり",
+    "content2": "yappari",
+    "content3": "Adverb",
+    "content4": "as I thought"
+  },
+  {
+    "content1": "優しい",
+    "content2": "yasashiiやさしい",
+    "content3": "Adjective, い-adjective",
+    "content4": "kind"
+  },
+  {
+    "content1": "痩せる",
+    "content2": "yaseruやせる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to become thin"
+  },
+  {
+    "content1": "柔らかい",
+    "content2": "yawarakaiやわらかい",
+    "content3": "Adjective, い-adjective",
+    "content4": "soft"
+  },
+  {
+    "content1": "汚れる",
+    "content2": "yogoreruよごれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to get dirty"
+  },
+  {
+    "content1": "喜ぶ",
+    "content2": "yorokobuよろこぶ",
+    "content3": "Verb, Godan verb",
+    "content4": "to be delighted"
+  },
+  {
+    "content1": "寄る",
+    "content2": "yoruよる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to visit; to drop by"
+  },
+  {
+    "content1": "予習",
+    "content2": "yoshuuよしゅう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "preparation for a lesson"
+  },
+  {
+    "content1": "予定",
+    "content2": "yoteiよてい",
+    "content3": "Noun, Suru verb",
+    "content4": "plan"
+  },
+  {
+    "content1": "用",
+    "content2": "youよう",
+    "content3": "Noun, Suffix",
+    "content4": "business; task; errand; use; purpose"
+  },
+  {
+    "content1": "用意",
+    "content2": "youiようい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "preparation; arrangements; provision; getting ready"
+  },
+  {
+    "content1": "用事",
+    "content2": "youjiようじ",
+    "content3": "Noun",
+    "content4": "tasks; things to do; errand; business (to take care of)"
+  },
+  {
+    "content1": "予約",
+    "content2": "yoyakuよやく",
+    "content3": "Noun, Suru verb",
+    "content4": "reservation"
+  },
+  {
+    "content1": "湯",
+    "content2": "yuゆ",
+    "content3": "Noun",
+    "content4": "hot water"
+  },
+  {
+    "content1": "指",
+    "content2": "yubiゆび",
+    "content3": "Noun",
+    "content4": "finger"
+  },
+  {
+    "content1": "指輪",
+    "content2": "yubiwaゆびわ",
+    "content3": "Noun",
+    "content4": "finger ring"
+  },
+  {
+    "content1": "夢",
+    "content2": "yumeゆめ",
+    "content3": "Noun",
+    "content4": "dream"
+  },
+  {
+    "content1": "揺れる",
+    "content2": "yureruゆれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to shake"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "残念",
+    "content2": "zannenざんねん",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "regrettable; unfortunate"
+  },
+  {
+    "content1": "全然",
+    "content2": "zenzenぜんぜん",
+    "content3": "Adverb",
+    "content4": "not entirely (used in a negative sentence)"
+  }
+]
