@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:learnjap/N3.dart';
 import 'N5.dart';
 import 'N4.dart';
 import 'Hiranaga.dart';
@@ -37,14 +38,14 @@ class _MainState extends State<Main> {
       body: Container(
        color: const Color.fromARGB(255, 230, 245, 245),
         child: SafeArea(
-          child: Column(
-            children: <Widget>[
-              Center(
+          child: Center(
+            child: Column(
+              children: [
 
-                
-                child: Padding(
-                  padding: const EdgeInsets.all(30),
-                  child: ElevatedButton(
+
+SizedBox(height: 40,),
+
+ElevatedButton(
                     onPressed: () {
               
         
@@ -80,7 +81,7 @@ class _MainState extends State<Main> {
         
         
         
-                    child: const Text("Hiranaga alphabets"),
+                    child: const Text("Hiranaga Alphabets"),
         
         
         
@@ -90,19 +91,12 @@ class _MainState extends State<Main> {
         
                     
                   ),
-                ),
-                
-              ),
+SizedBox(height: 40,),
 
 
 
 
-Center(
-
-  
-                child: Padding(
-                  padding: const EdgeInsets.all(30),
-                  child: ElevatedButton(
+                  ElevatedButton(
                     onPressed: () {
               
         
@@ -148,19 +142,13 @@ Center(
         
                     
                   ),
-                ),
-),
 
 
 
 
+SizedBox(height: 40,),
 
-Center(
-
-  
-                child: Padding(
-                  padding: const EdgeInsets.all(30),
-                  child: ElevatedButton(
+                  ElevatedButton(
                     onPressed: () {
               
         
@@ -206,14 +194,78 @@ Center(
         
                     
                   ),
-                ),
-),
+
+
+
+
+SizedBox(height: 40,),
+
+
+
+                  ElevatedButton(
+                    onPressed: () {
+              
+        
+        
+            
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) =>  const N3()));
+            
+        
+        
+        
+        
+                    },
+        
+        
+                    style: ElevatedButton.styleFrom(
+        
+                      backgroundColor:  const Color.fromARGB(221, 110, 205, 232),
+                      padding: const EdgeInsets.fromLTRB(40, 20, 40, 20),
+        foregroundColor:const Color.fromARGB(221, 255, 255, 255),
+
+                      shadowColor: Colors.red,
+                      elevation: 15,
+                      
+        
+                      
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(10.0),
+                      ),
+                      textStyle: const TextStyle(color: Color.fromARGB(255, 251, 251, 251),fontSize: 20,fontWeight:FontWeight.bold), // Change text color
+                    ),
+        
+        
+        
+        
+                    child: const Text("Check NLPT N3 words"),
+        
+        
+        
+        
+        
+        
+        
+                    
+                  ),
+
+
+
+SizedBox(height: 40,),
 
 
 
 
 
-            ],
+
+
+
+
+
+
+
+              ],
+            ),
           ),
         ),
       ),
