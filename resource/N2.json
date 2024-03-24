@@ -1,0 +1,626 @@
+[
+  {
+    "content1": "明け方",
+    "content2": "akegataあけがた",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "dawn"
+  },
+  {
+    "content1": "青白い",
+    "content2": "aojiroiあおじろい",
+    "content3": "Adjective, い-adjective",
+    "content4": "pale; bluish-white"
+  },
+  {
+    "content1": "足跡",
+    "content2": "ashiatoあしあと",
+    "content3": "Noun",
+    "content4": "footprints"
+  },
+  {
+    "content1": "売買",
+    "content2": "baibaiばいばい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "trade; buying and selling"
+  },
+  {
+    "content1": "売店",
+    "content2": "baitenばいてん",
+    "content3": "Noun",
+    "content4": "stand; stall; booth; kiosk; store"
+  },
+  {
+    "content1": "募集",
+    "content2": "boshuuぼしゅう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "recruitment; invitation; taking applications; solicitation"
+  },
+  {
+    "content1": "長男",
+    "content2": "chounanちょうなん",
+    "content3": "Noun",
+    "content4": "eldest son; first-born son"
+  },
+  {
+    "content1": "楕円",
+    "content2": "daenだえん",
+    "content3": "Noun",
+    "content4": "ellipse"
+  },
+  {
+    "content1": "大学院",
+    "content2": "daigakuinだいがくいん",
+    "content3": "Noun",
+    "content4": "graduate school"
+  },
+  {
+    "content1": "出入口",
+    "content2": "deiriguchiでいりぐち",
+    "content3": "Noun",
+    "content4": "exit and entrance"
+  },
+  {
+    "content1": "宴会",
+    "content2": "enkaiえんかい",
+    "content3": "Noun",
+    "content4": "party; banquet; reception; feast; dinner"
+  },
+  {
+    "content1": "円周",
+    "content2": "enshuuえんしゅう",
+    "content3": "Noun",
+    "content4": "circumference"
+  },
+  {
+    "content1": "遠足",
+    "content2": "ensokuえんそく",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "excursion; outing; trip"
+  },
+  {
+    "content1": "父母",
+    "content2": "fuboふぼ",
+    "content3": "Noun",
+    "content4": "father and mother; parents"
+  },
+  {
+    "content1": "学科",
+    "content2": "gakkaがっか",
+    "content3": "Noun",
+    "content4": "study subject; course of study​; department"
+  },
+  {
+    "content1": "学会",
+    "content2": "gakkaiがっかい",
+    "content3": "Noun",
+    "content4": "scientific society; academic meeting; academic conference"
+  },
+  {
+    "content1": "学力",
+    "content2": "gakuryokuがくりょく",
+    "content3": "Noun",
+    "content4": "scholarly ability; scholarship; knowledge; literary ability"
+  },
+  {
+    "content1": "外科",
+    "content2": "gekaげか",
+    "content3": "Noun",
+    "content4": "surgery; department of surgery"
+  },
+  {
+    "content1": "花火",
+    "content2": "hanabiはなび",
+    "content3": "Noun",
+    "content4": "fireworks"
+  },
+  {
+    "content1": "半径",
+    "content2": "hankeiはんけい",
+    "content3": "Noun",
+    "content4": "radius"
+  },
+  {
+    "content1": "半島",
+    "content2": "hantouはんとう",
+    "content3": "Noun",
+    "content4": "peninsula"
+  },
+  {
+    "content1": "発売",
+    "content2": "hatsubaiはつばい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "sale; release (for sale); launch (product)"
+  },
+  {
+    "content1": "早口",
+    "content2": "hayaguchiはやぐち",
+    "content3": "Noun",
+    "content4": "fast-talking; rapid talking"
+  },
+  {
+    "content1": "外れる",
+    "content2": "hazureruはずれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be disconnected; to be off; to miss the mark"
+  },
+  {
+    "content1": "閉会",
+    "content2": "heikaiへいかい",
+    "content3": "Verb, Suru verb",
+    "content4": "closure (of a ceremony, event, meeting, etc.)"
+  },
+  {
+    "content1": "昼寝",
+    "content2": "hiruneひるね",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "nap, siesta"
+  },
+  {
+    "content1": "意地悪",
+    "content2": "ijiwaruいじわる",
+    "content3": "Noun, Verb, Adjective, な-adjective, Suru verb",
+    "content4": "malicious; ill-tempered; unkind"
+  },
+  {
+    "content1": "移転",
+    "content2": "itenいてん",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "moving; relocation; change of address"
+  },
+  {
+    "content1": "一旦",
+    "content2": "ittanいったん",
+    "content3": "Adverb",
+    "content4": "once; for a short time; briefly; temporarily"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "寺院",
+    "content2": "ji'inじいん",
+    "content3": "Noun",
+    "content4": "Buddhist temple; religious building"
+  },
+  {
+    "content1": "人文科学",
+    "content2": "jinbunkagakuじんぶんかがく",
+    "content3": "Noun",
+    "content4": "humanities; social sciences; liberal arts"
+  },
+  {
+    "content1": "自習",
+    "content2": "jishuuじしゅう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "self-study; teaching oneself"
+  },
+  {
+    "content1": "時速",
+    "content2": "jisokuじそく",
+    "content3": "Noun",
+    "content4": "speed (per hour)"
+  },
+  {
+    "content1": "実習",
+    "content2": "jisshuuじっしゅう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "practice; training; practical exercise; drill"
+  },
+  {
+    "content1": "過半数",
+    "content2": "kahansuuかはんすう",
+    "content3": "Noun",
+    "content4": "majority"
+  },
+  {
+    "content1": "開会",
+    "content2": "kaikaiかいかい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "opening of a meeting; starting (an event, etc)"
+  },
+  {
+    "content1": "会館",
+    "content2": "kaikanかいかん",
+    "content3": "Noun",
+    "content4": "meeting hall; assembly hall"
+  },
+  {
+    "content1": "回転",
+    "content2": "kaitenかいてん",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "rotation; revolution; turning"
+  },
+  {
+    "content1": "加速",
+    "content2": "kasokuかそく",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "acceleration; speeding up"
+  },
+  {
+    "content1": "加速度",
+    "content2": "kasokudoかそくど",
+    "content3": "Noun",
+    "content4": "acceleration"
+  },
+  {
+    "content1": "見学",
+    "content2": "kengakuけんがく",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "study by observation; field trip; tour; review; inspection"
+  },
+  {
+    "content1": "国王",
+    "content2": "kokuouこくおう",
+    "content3": "Noun",
+    "content4": "king; queen; monarch; sovereign"
+  },
+  {
+    "content1": "国立",
+    "content2": "kokuritsuこくりつ",
+    "content3": "Noun",
+    "content4": "national"
+  },
+  {
+    "content1": "国籍",
+    "content2": "kokusekiこくせき",
+    "content3": "Noun",
+    "content4": "nationality; citizenship"
+  },
+  {
+    "content1": "転がる",
+    "content2": "korogaruころがる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to roll; to fall over; to lie down"
+  },
+  {
+    "content1": "転がす",
+    "content2": "korogasuころがす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to roll; to turn over"
+  },
+  {
+    "content1": "校舎",
+    "content2": "koushaこうしゃ",
+    "content3": "Noun",
+    "content4": "school building; schoolhouse"
+  },
+  {
+    "content1": "校庭",
+    "content2": "kouteiこうてい",
+    "content3": "Noun",
+    "content4": "schoolyard; playground; school grounds; campus"
+  },
+  {
+    "content1": "待合室",
+    "content2": "machiaishitsuまちあいしつ",
+    "content3": "Noun",
+    "content4": "waiting room"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "待ち合わせる",
+    "content2": "machiawaseruまちあわせる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to rendezvous; to meet at a prearranged place and time; to arrange to meet"
+  },
+  {
+    "content1": "窓口",
+    "content2": "madoguchiまどぐち",
+    "content3": "Noun",
+    "content4": "ticket window; teller window; counter"
+  },
+  {
+    "content1": "毎度",
+    "content2": "maidoまいど",
+    "content3": "Noun, Adverbial Noun",
+    "content4": "each time; always; often; thank you for your continued patronage​"
+  },
+  {
+    "content1": "真っ青",
+    "content2": "massaoまっさお",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "deep blue; bright blue​; ghastly pale; white as a sheet"
+  },
+  {
+    "content1": "真っ白",
+    "content2": "masshiroまっしろ",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "pure white; blank"
+  },
+  {
+    "content1": "名刺",
+    "content2": "meishiめいし",
+    "content3": "Noun",
+    "content4": "business card"
+  },
+  {
+    "content1": "店屋",
+    "content2": "miseyaみせや",
+    "content3": "Noun",
+    "content4": "store; shop"
+  },
+  {
+    "content1": "木材",
+    "content2": "mokuzaiもくざい",
+    "content3": "Noun",
+    "content4": "lumber; timber; wood"
+  },
+  {
+    "content1": "元々",
+    "content2": "motomotoもともと",
+    "content3": "Adverb",
+    "content4": "originally, by nature, from the start"
+  },
+  {
+    "content1": "内科",
+    "content2": "naikaないか",
+    "content3": "Noun",
+    "content4": "internal medicine"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "並木",
+    "content2": "namikiなみき",
+    "content3": "Noun",
+    "content4": "roadside tree; row of trees"
+  },
+  {
+    "content1": "入社",
+    "content2": "nyuushaにゅうしゃ",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "joining a company"
+  },
+  {
+    "content1": "押さえる",
+    "content2": "osaeruおさえる",
+    "content3": "Verb, Ichidan verb, Transitive verb",
+    "content4": "to pin down; to hold down; to press down"
+  },
+  {
+    "content1": "理科",
+    "content2": "rikaりか",
+    "content3": "Noun",
+    "content4": "science (department; course)"
+  },
+  {
+    "content1": "領収",
+    "content2": "ryoushuuりょうしゅう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "receipt (of money); receiving"
+  },
+  {
+    "content1": "再三",
+    "content2": "saisanさいさん",
+    "content3": "Adverb",
+    "content4": "again and again; repeatedly"
+  },
+  {
+    "content1": "刺さる",
+    "content2": "sasaruささる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to stick into (with a sharp point); to prick; to get stuck (in);"
+  },
+  {
+    "content1": "刺身",
+    "content2": "sashimiさしみ",
+    "content3": "Noun",
+    "content4": "sashimi (raw sliced fish, shellfish or crustaceans)"
+  },
+  {
+    "content1": "早速",
+    "content2": "sassokuさっそく",
+    "content3": "Adverb",
+    "content4": "at once; immediately; without delay; promptly"
+  },
+  {
+    "content1": "刺す",
+    "content2": "sasuさす",
+    "content3": "Verb, Godan verb, Transitive verb",
+    "content4": "to pierce; to stab; to prick; to stick; to thrust; to sting"
+  },
+  {
+    "content1": "青少年",
+    "content2": "seishounenせいしょうねん",
+    "content3": "Noun",
+    "content4": "youth; young person"
+  },
+  {
+    "content1": "赤道",
+    "content2": "sekidouせきどう",
+    "content3": "Noun",
+    "content4": "equator"
+  },
+  {
+    "content1": "社会科学",
+    "content2": "shakaikagakuしゃかいかがく",
+    "content3": "Noun",
+    "content4": "social science"
+  },
+  {
+    "content1": "社説",
+    "content2": "shasetsuしゃせつ",
+    "content3": "Noun",
+    "content4": "editorial; leading article; leader"
+  },
+  {
+    "content1": "司会",
+    "content2": "shikaiしかい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "master of ceremonies; leading a meeting; presenter; host"
+  },
+  {
+    "content1": "新幹線",
+    "content2": "shinkansenしんかんせん",
+    "content3": "Noun",
+    "content4": "Japanese bullet train"
+  },
+  {
+    "content1": "白髪",
+    "content2": "shiragaしらが",
+    "content3": "Noun",
+    "content4": "white hair; grey hair"
+  },
+  {
+    "content1": "自然科学",
+    "content2": "shizenkagakuしぜんかがく",
+    "content3": "Noun",
+    "content4": "natural science"
+  },
+  {
+    "content1": "書店",
+    "content2": "shotenしょてん",
+    "content3": "Noun",
+    "content4": "bookshop; bookstore"
+  },
+  {
+    "content1": "商社",
+    "content2": "shoushaしょうしゃ",
+    "content3": "Noun",
+    "content4": "trading company; firm"
+  },
+  {
+    "content1": "商店",
+    "content2": "shoutenしょうてん",
+    "content3": "Noun",
+    "content4": "shop; small store; business; firm"
+  },
+  {
+    "content1": "集合",
+    "content2": "shuugouしゅうごう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "gathering; assembly; meeting"
+  },
+  {
+    "content1": "習字",
+    "content2": "shuujiしゅうじ",
+    "content3": "Noun",
+    "content4": "calligraphy; penmanship"
+  },
+  {
+    "content1": "集会",
+    "content2": "shuukaiしゅうかい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "meeting; assembly; gathering; convention; rally"
+  },
+  {
+    "content1": "速力",
+    "content2": "sokuryokuそくりょく",
+    "content3": "Noun",
+    "content4": "speed"
+  },
+  {
+    "content1": "速達",
+    "content2": "sokutatsuそくたつ",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "express; special delivery"
+  },
+  {
+    "content1": "足袋",
+    "content2": "tabiたび",
+    "content3": "Noun",
+    "content4": "Japanese socks (with split toe)"
+  },
+  {
+    "content1": "足る",
+    "content2": "taruたる",
+    "content3": "Verb, Godan verb, Intransitive verb",
+    "content4": "to be sufficient; to be enough​; to be worth doing; to be worthy of; to deserve​"
+  },
+  {
+    "content1": "特売",
+    "content2": "tokubaiとくばい",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "special sale"
+  },
+  {
+    "content1": "透明",
+    "content2": "toumeiとうめい",
+    "content3": "Noun, Adjective, な-adjective",
+    "content4": "transparent; clear"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "東洋",
+    "content2": "touyouとうよう",
+    "content3": "Noun",
+    "content4": "Orient"
+  },
+  {
+    "content1": "売れ行き",
+    "content2": "ureyukiうれゆき",
+    "content3": "Noun",
+    "content4": "sales; demand"
+  },
+  {
+    "content1": "売上",
+    "content2": "uriageうりあげ",
+    "content3": "Noun",
+    "content4": "amount sold; sales; proceeds; turnover"
+  },
+  {
+    "content1": "売り切れ",
+    "content2": "urikireうりきれ",
+    "content3": "Noun",
+    "content4": "sold out"
+  },
+  {
+    "content1": "売り切れる",
+    "content2": "urikireruうりきれる",
+    "content3": "Verb, Ichidan verb, Intransitive verb",
+    "content4": "to be sold out"
+  },
+  {
+    "content1": "我が",
+    "content2": "wagaわが",
+    "content3": "Pre-noun adjectival",
+    "content4": "my; our; one's own"
+  },
+  {
+    "content1": "洋品店",
+    "content2": "youhintenようひんてん",
+    "content3": "Noun",
+    "content4": "shop that handles Western-style apparel and accessories"
+  },
+  {
+    "content1": "",
+    "content2": "",
+    "content3": "",
+    "content4": ""
+  },
+  {
+    "content1": "輸血",
+    "content2": "yuketsuゆけつ",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "blood transfusion"
+  },
+  {
+    "content1": "輸送",
+    "content2": "yusouゆそう",
+    "content3": "Noun, Verb, Suru verb",
+    "content4": "transport; transportation"
+  },
+  {
+    "content1": "材木",
+    "content2": "zaimokuざいもく",
+    "content3": "Noun",
+    "content4": "lumber; timber"
+  }
+]
